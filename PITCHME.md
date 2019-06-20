@@ -7,18 +7,18 @@
 ### 4 Key Questions
 @snapend
 
-@snap[west span-50]
 @ol[spaced]
+@snap[west span-50]
 - What are we building?
+@snapend
+@snap[east span-50]
+@fa[question fa-5x]
+@snapend
 - What can go wrong?
 - What can we do about it?
 - Did we do a good job?
 @olend
-@snapend
 
-@snap[east span-50]
-@fa[question]
-@snapend
 ---
 
 ## Add Some Slide Candy
