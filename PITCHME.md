@@ -1,7 +1,7 @@
 ## Threat Modelling
 ### Sooner the Better, but Never Too Late
 
----?color=linear-gradient(90deg, white 60%, orange 40%)
+---?color=linear-gradient(90deg, white 60%, #e49436 40%)
 @snap[north-west span-50]
 ### Agenda
 @snapend
