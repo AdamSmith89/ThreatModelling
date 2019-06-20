@@ -3,21 +3,38 @@
 
 ---?color=linear-gradient(90deg, white 60%, #ff8000 40%)
 @title[Agenda]
+
 @snap[north-west span-50]
 ### 4 Key Questions
 @snapend
 
-@ol[spaced]
 @snap[west span-50]
+@ol[spaced]
 - What are we building?
-@snapend
-@snap[east span-50]
-@fa[question fa-5x]
-@snapend
 - What can go wrong?
 - What can we do about it?
 - Did we do a good job?
 @olend
+@snapend
+
+---
+
+@ol
+- Model the system
+- Whiteboard
+- Visio
+- Can do one scenario at a time
+- Show examples of diagrams
+@olend
+
+---
+
+S
+T
+R
+I
+D
+E
 
 ---
 
