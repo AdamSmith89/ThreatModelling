@@ -7,7 +7,7 @@
 ### 4 Key Questions
 @snapend
 
-@snap[west span-100]
+@snap[west span-50]
 @ul[spaced]
 1. What are we building?
 2. What can go wrong?
