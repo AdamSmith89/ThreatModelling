@@ -9,11 +9,15 @@
 
 @snap[west span-100]
 @ul[spaced]
-- What are we building?
-- What can go wrong?
-- What can we do about it?
-- Did we do a good job?
+1. What are we building?
+2. What can go wrong?
+3. What can we do about it?
+4. Did we do a good job?
 @ulend
+@snapend
+
+@snap[east span-50]
+![](assets/img/question-mark-24.png)
 @snapend
 ---
 
