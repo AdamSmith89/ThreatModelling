@@ -17,7 +17,7 @@
 @snapend
 
 @snap[east span-50]
-![](assets/img/question-mark-96.png)
+@fa[question]
 @snapend
 ---
 
