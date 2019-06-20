@@ -1,12 +1,20 @@
 ## Threat Modelling
 ### Sooner the Better, but Never Too Late
 
----?color=linear-gradient(30deg, white 60%, #ffa500 40%)
+---?color=linear-gradient(90deg, white 60%, #ff8000 40%)
+@title[Agenda]
 @snap[north-west span-50]
-### Agenda
+### 4 Key Questions
 @snapend
 
-
+@snap[west span-100]
+@ul[spaced]
+- What are we building?
+- What can go wrong?
+- What can we do about it?
+- Did we do a good job?
+@ulend
+@snapend
 ---
 
 ## Add Some Slide Candy
