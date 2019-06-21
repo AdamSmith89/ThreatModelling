@@ -30,15 +30,22 @@ Whiteboard
 
 @snap[north-east fragment]
 Visio
+@fa[project-diagram]
 @snapend
 
 @snap[south-west fragment]
-UML
+DFD
+@fa[database]
 @snapend
 
 @snap[south-east fragment]
-DFD
+UML
+@fa[arrow-up]
 @snapend
+
+Note:
+- DFD on a whiteboard tends to be the most productive
+- Can transfer to an electronic copy later
 
 ---
 
