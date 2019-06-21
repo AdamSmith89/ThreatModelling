@@ -19,6 +19,32 @@
 
 ---
 
+@snap[center]
+### Model the System
+@snapend
+
+@snap[north-west fragment]
+Whiteboard
+@fa[chalkboard]
+@snapend
+
+@snap[north-east fragment]
+Visio
+@snapend
+
+@snap[south-west fragment]
+UML
+@snapend
+
+@snap[south-east fragment]
+DFD
+@snapend
+
+---
+
+### 
+
+---
 @ol
 - Model the system
 - Whiteboard
