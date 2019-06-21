@@ -17,51 +17,9 @@
 @olend
 @snapend
 
----
-
-@snap[center]
-### Model the System
-@snapend
-
-@snap[north-west fragment]
-Whiteboard
-@fa[chalkboard]
-@snapend
-
-@snap[north-east fragment]
-Visio
-@fa[project-diagram]
-@snapend
-
-@snap[south-west fragment]
-DFD
-@fa[database]
-@snapend
-
-@snap[south-east fragment]
-UML
-@fa[arrow-up]
-@snapend
-
-Note:
-- DFD on a whiteboard tends to be the most productive
-- Can transfer to an electronic copy later
+---?include=sections/1-WhatToBuild/PITCHME.md
 
 ---
-
-### 
-
----
-@ol
-- Model the system
-- Whiteboard
-- Visio
-- Can do one scenario at a time
-- Show examples of diagrams
-@olend
-
----
-
 @snap[west]
 ### S
 ### T
