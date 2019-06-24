@@ -42,7 +42,7 @@ Note:
 #### *Spoofing*
 @snapend
 
-@snap[north-east fragment]
+@snap[north-east span-100 fragment]
 <br>
 @quote[Pretending to be something or someone you are not](Adam Shostack)
 @snapend
@@ -66,7 +66,7 @@ Note:
 #### What Can Go Wrong? *Tampering*
 @snapend
 
-@snap[north-east fragment]
+@snap[north-east span-100 fragment]
 <br>
 @quote[Modifying something you aren't supposed to modify](Adam Shostack)
 @snapend
@@ -88,7 +88,7 @@ Note:
 #### What Can Go Wrong? *Repudiation*
 @snapend
 
-@snap[north-east fragment]
+@snap[north-east span-100 fragment]
 <br>
 @quote[Claiming you didn't do something](Adam Shostack)
 @snapend
@@ -110,7 +110,7 @@ Note:
 #### What Can Go Wrong? *Information Disclosure*
 @snapend
 
-@snap[north-east fragment]
+@snap[north-east span-100 fragment]
 <br>
 @quote[Exposing information to people who aren't supposed to see it](Adam Shostack)
 @snapend
@@ -120,7 +120,7 @@ Note:
 #### What Can Go Wrong? *Denial of Service*
 @snapend
 
-@snap[north-east fragment]
+@snap[north-east span-100 fragment]
 <br>
 @quote[Preventing a system from providing service](Adam Shostack)
 @snapend
@@ -130,7 +130,7 @@ Note:
 #### What Can Go Wrong? *Elevation of Privilege*
 @snapend
 
-@snap[north-east fragment]
+@snap[north-east span-100 fragment]
 <br>
 @quote[When a program of user is technically able to do things they are not supposed to](Adam Shostack)
 @snapend
