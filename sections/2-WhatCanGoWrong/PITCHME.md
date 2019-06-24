@@ -23,7 +23,12 @@ Note:
 @snapend
 
 @ul
-- **S**poofing @fa[database]
+@snap[west]
+- **S**poofing
+@snapend
+@snap[east]
+@fa[database]
+@snapend
 - **T**ampering @fa[chalkboard]
 - **R**epudiation @fa[arrow-up]
 - **I**nformation Disclosure
