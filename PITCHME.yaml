@@ -32,6 +32,8 @@ layout : center
 #
 footnote : "Sooner The Better, But Better Late Than Never"
 
+hightlight : monokai
+
 #
 # Published Setting
 # Doc: https://gitpitch.com/docs/settings/published

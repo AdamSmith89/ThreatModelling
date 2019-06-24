@@ -3,14 +3,13 @@
 @snapend
 
 ```
-### S
-### T
-### R
-### I
-### D
-### E
+Spoofing
+Tampering
+Repudiation
+Information Disclosure
+Denial of Service
+Elevation of Privilege
 ```
-
 @[1]
 @[2]
 @[3]
