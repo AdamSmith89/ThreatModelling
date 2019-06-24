@@ -2,14 +2,16 @@
 ### What Can Go Wrong?
 @snapend
 
-@ol
+@ul
 - **S**poofing
-- **T**ampering
-- **R**epudiation
-- **I**nformation Disclosure
-- **D**enial of Service
-- **E**levation of Privilege
-@olend
+- 
+- 
+- 
+- 
+- 
+@ulend
+
+@fa[chalkboard]
 
 Note:
 - Now the fun (scary) part!
@@ -26,4 +28,25 @@ Note:
 
 @snap[south-east span-40 text-08 fragment]
 @box[bg-gold](Step 3. Mutate # Modify data with Mutations)
+@snapend
+
+---
+
+@snap[north span-100]
+### What Can Go Wrong?
+@snapend
+
+@snap[west span-100]
+@ul
+- **S**poofing
+- **T**ampering
+- 
+- 
+- 
+- 
+@ulend
+@snapend
+
+@snap[east span-100]
+@fa[database]
 @snapend
