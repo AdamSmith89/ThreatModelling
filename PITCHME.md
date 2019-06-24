@@ -3,7 +3,7 @@
 
 ---
 
-@snap[north]
+@snap[north span-100]
 ## Why Threat Model
 @snapend
 
