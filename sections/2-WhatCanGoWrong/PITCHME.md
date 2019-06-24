@@ -41,7 +41,7 @@ Note:
 #### What Can Go Wrong? *Spoofing*
 @snapend
 
-@snap[center fragment]
+@snap[north fragment]
 @quote[Pretending to be something or someone you are not](Adam Shostack)
 @snapend
 
@@ -50,7 +50,7 @@ Note:
 #### What Can Go Wrong? *Tampering*
 @snapend
 
-@snap[center fragment]
+@snap[north fragment]
 @quote[Modifying something you aren't supposed to modify](Adam Shostack)
 @snapend
 
@@ -59,7 +59,7 @@ Note:
 #### What Can Go Wrong? *Repudiation*
 @snapend
 
-@snap[center fragment]
+@snap[north fragment]
 @quote[Claiming you didn't do something](Adam Shostack)
 @snapend
 
@@ -68,7 +68,7 @@ Note:
 #### What Can Go Wrong? *Information Disclosure*
 @snapend
 
-@snap[center fragment]
+@snap[north fragment]
 @quote[Exposing information to people who aren't supposed to see it](Adam Shostack)
 @snapend
 
@@ -77,7 +77,7 @@ Note:
 #### What Can Go Wrong? *Denial of Service*
 @snapend
 
-@snap[center fragment]
+@snap[north fragment]
 @quote[Preventing a system from providing service](Adam Shostack)
 @snapend
 
@@ -86,6 +86,6 @@ Note:
 #### What Can Go Wrong? *Elevation of Privilege*
 @snapend
 
-@snap[center fragment]
+@snap[north fragment]
 @quote[When a program of user is technically able to do things they are not supposed to](Adam Shostack)
 @snapend
