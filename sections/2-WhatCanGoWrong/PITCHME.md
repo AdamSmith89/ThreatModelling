@@ -42,35 +42,76 @@ Note:
 #### *Spoofing*
 @snapend
 
-@snap[north fragment]
+@snap[north-east fragment]
 <br>
 @quote[Pretending to be something or someone you are not](Adam Shostack)
 @snapend
+
+@snap[west]
+@ul
+- Violates authentication
+- Processes, people
+- Creating a file before the real process
+- Naming malicious process same as real process
+@ulend
+@snapend
+
+Note:
+- STRIDE is the opposite of desirable properties of your system
+- There are typical victims of each threat
+- Ask for examples before showing.
 
 ---
 @snap[north-west]
 #### What Can Go Wrong? *Tampering*
 @snapend
 
-@snap[north fragment]
+@snap[north-east fragment]
+<br>
 @quote[Modifying something you aren't supposed to modify](Adam Shostack)
 @snapend
+
+@snap[west]
+@ul
+- Violates integrity
+- Data stores, data flows
+- Modifying files a process relies on
+- Modifying process memory
+@ulend
+@snapend
+
+Note:
+- 
 
 ---
 @snap[north-west]
 #### What Can Go Wrong? *Repudiation*
 @snapend
 
-@snap[north fragment]
+@snap[north-east fragment]
+<br>
 @quote[Claiming you didn't do something](Adam Shostack)
 @snapend
+
+@snap[west]
+@ul
+- Violates non-repudiation
+- Process
+- Use someone else's account
+- Attack logs
+@ulend
+@snapend
+
+Note:
+- 
 
 ---
 @snap[north-west]
 #### What Can Go Wrong? *Information Disclosure*
 @snapend
 
-@snap[north fragment]
+@snap[north-east fragment]
+<br>
 @quote[Exposing information to people who aren't supposed to see it](Adam Shostack)
 @snapend
 
@@ -79,7 +120,8 @@ Note:
 #### What Can Go Wrong? *Denial of Service*
 @snapend
 
-@snap[north fragment]
+@snap[north-east fragment]
+<br>
 @quote[Preventing a system from providing service](Adam Shostack)
 @snapend
 
@@ -88,6 +130,7 @@ Note:
 #### What Can Go Wrong? *Elevation of Privilege*
 @snapend
 
-@snap[north fragment]
+@snap[north-east fragment]
+<br>
 @quote[When a program of user is technically able to do things they are not supposed to](Adam Shostack)
 @snapend
