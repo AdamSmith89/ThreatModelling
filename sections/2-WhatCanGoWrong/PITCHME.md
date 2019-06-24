@@ -40,27 +40,27 @@ Note:
 
 <table>
   <tr class="fragment">
-    <th>**S**tride</th>
+    <th><b>S</b>tride</th>
     <th>@fa[database]</th>
   </tr>
   <tr class="fragment">
-    <th>Tampering</th>
+    <th><b>T</b>ampering</th>
+    <th>@fa[chalkboard]</th>
+  </tr>
+    <tr class="fragment">
+    <th><b>R</b>epudiation</th>
+    <th>@fa[arrow-up]</th>
+  </tr>
+    <tr class="fragment">
+    <th><b>I</b>nformation Disclosure</th>
     <th>@fa[database]</th>
   </tr>
     <tr class="fragment">
-    <th>Repudiation</th>
+    <th><b>D</b>enial of Service</th>
     <th>@fa[database]</th>
   </tr>
     <tr class="fragment">
-    <th>Information Disclosure</th>
-    <th>@fa[database]</th>
-  </tr>
-    <tr class="fragment">
-    <th>Denial of Service</th>
-    <th>@fa[database]</th>
-  </tr>
-    <tr class="fragment">
-    <th>Elevation of Privilege</th>
+    <th><b>E</b>levation of Privilege</th>
     <th>@fa[database]</th>
   </tr>
 </table>
