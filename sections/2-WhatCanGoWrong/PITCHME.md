@@ -41,7 +41,8 @@ Note:
 #### What Can Go Wrong? *Spoofing*
 @snapend
 
-@snap[north fragment]
+@snap[north span-200 fragment]
+<br>
 @quote[Pretending to be something or someone you are not](Adam Shostack)
 @snapend
 
