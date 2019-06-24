@@ -20,8 +20,8 @@ Note:
 ---?color=linear-gradient(90deg, white 60%, #ff8000 40%)
 @title[Agenda]
 
-@snap[north-west span-50]
-### 4 Key Questions
+@snap[north span-100]
+## 4 Key Questions
 @snapend
 
 @snap[west span-50]

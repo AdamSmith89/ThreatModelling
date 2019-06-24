@@ -27,8 +27,8 @@ Note:
 - Can transfer to an electronic copy later
 
 ---
-@snap[north span-100]
-### What Are We Building?
+@snap[north-west span-100]
+#### What Are We Building?
 @snapend
 
 Basic DFD with components and links
@@ -39,8 +39,8 @@ Note:
 - If data can go either one place or another, add both!
 
 ---
-@snap[north span-100]
-### What Are We Building?
+@snap[north-west span-100]
+#### What Are We Building?
 @snapend
 
 Add trust boundaries
