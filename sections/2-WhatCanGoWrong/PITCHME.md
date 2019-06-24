@@ -3,7 +3,7 @@
 @snapend
 
 <table>
-  <col width="100">
+  <col width="500">
   <col width="100">
   <tr class="fragment">
     <th><b>S</b>tride</th>
