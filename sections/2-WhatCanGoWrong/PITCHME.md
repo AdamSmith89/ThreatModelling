@@ -2,20 +2,14 @@
 ### What Can Go Wrong?
 @snapend
 
-```
-Spoofing
-Tampering
-Repudiation
-Information Disclosure
-Denial of Service
-Elevation of Privilege
-```
-@[1]
-@[2]
-@[3]
-@[4]
-@[5]
-@[6]
+@ol
+**S**poofing
+**T**ampering
+**R**epudiation
+**I**nformation Disclosure
+**D**enial of Service
+**E**levation of Privilege
+@olend
 
 Note:
 - Now the fun (scary) part!
