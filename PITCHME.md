@@ -3,6 +3,9 @@
 ### *Sooner The Better, But Better Late Than Never*
 @snapend
 
+Note:
+- Great quote from OWASP
+
 ---
 
 @snap[north span-100]
