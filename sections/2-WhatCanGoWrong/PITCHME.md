@@ -42,7 +42,7 @@ Note:
 #### *Spoofing*
 @snapend
 
-@snap[north-east span-100 fragment]
+@snap[north-east span-50 fragment]
 <br>
 @quote[Pretending to be something or someone you are not](Adam Shostack)
 @snapend
