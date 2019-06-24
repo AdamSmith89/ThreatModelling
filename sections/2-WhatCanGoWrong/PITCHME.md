@@ -35,3 +35,24 @@ Note:
 - **D**enial of Service
 - **E**levation of Privilege
 @ulend
+
+---
+
+<table>
+  <tr>
+    <th>**S**tride</th>
+    <th>@fa[database]</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>25</td>
+  </tr>
+  <tr class="fragment">
+    <td>Eve</td>
+    <td>94</td>
+  </tr>
+  <tr class="fragment">
+    <td>John</td>
+    <td>43</td>
+  </tr>
+</table>
