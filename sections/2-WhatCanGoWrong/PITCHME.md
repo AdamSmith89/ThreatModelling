@@ -1,4 +1,4 @@
-@snap[north-west span-100]
+@snap[north-west]
 #### What Can Go Wrong?
 @snapend
 
@@ -37,17 +37,18 @@ Note:
 - Going to suggest using STRIDE
 
 ---
-@snap[north-west span-100]
-#### What Can Go Wrong? *Spoofing*
+@snap[north-west]
+#### What Can Go Wrong?
+#### *Spoofing*
 @snapend
 
-@snap[north span-200 fragment]
+@snap[north fragment]
 <br>
 @quote[Pretending to be something or someone you are not](Adam Shostack)
 @snapend
 
 ---
-@snap[north-west span-100]
+@snap[north-west]
 #### What Can Go Wrong? *Tampering*
 @snapend
 
@@ -56,7 +57,7 @@ Note:
 @snapend
 
 ---
-@snap[north-west span-100]
+@snap[north-west]
 #### What Can Go Wrong? *Repudiation*
 @snapend
 
@@ -65,7 +66,7 @@ Note:
 @snapend
 
 ---
-@snap[north-west span-100]
+@snap[north-west]
 #### What Can Go Wrong? *Information Disclosure*
 @snapend
 
@@ -74,7 +75,7 @@ Note:
 @snapend
 
 ---
-@snap[north-west span-100]
+@snap[north-west]
 #### What Can Go Wrong? *Denial of Service*
 @snapend
 
@@ -83,7 +84,7 @@ Note:
 @snapend
 
 ---
-@snap[north-west span-100]
+@snap[north-west]
 #### What Can Go Wrong? *Elevation of Privilege*
 @snapend
 
