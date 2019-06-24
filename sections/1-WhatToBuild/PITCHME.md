@@ -27,8 +27,9 @@ Note:
 - Can transfer to an electronic copy later
 
 ---
-
-### What to Model
+@snap[north span-100]
+### What Are We Building?
+@snapend
 
 Basic DFD with components and links
 
@@ -38,8 +39,9 @@ Note:
 - If data can go either one place or another, add both!
 
 ---
-
-### What to Model
+@snap[north span-100]
+### What Are We Building?
+@snapend
 
 Add trust boundaries
 They show who controls what
@@ -49,14 +51,5 @@ Note:
 - Sometimes known as Attack Surfaces
 - Helps you focus on where threats are likely to be found
 - This is the key difference between standard diagrams
-
----
-@ol
-- Model the system
-- Whiteboard
-- Visio
-- Can do one scenario at a time
-- Show examples of diagrams
-@olend
 
 ---
