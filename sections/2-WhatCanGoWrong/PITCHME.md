@@ -3,12 +3,12 @@
 @snapend
 
 @ol
-**S**poofing
-**T**ampering
-**R**epudiation
-**I**nformation Disclosure
-**D**enial of Service
-**E**levation of Privilege
+- **S**poofing
+- **T**ampering
+- **R**epudiation
+- **I**nformation Disclosure
+- **D**enial of Service
+- **E**levation of Privilege
 @olend
 
 Note:
