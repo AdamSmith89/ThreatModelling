@@ -23,13 +23,17 @@ Note:
 @snapend
 
 @css[west fragment](**S**poofing)
-@fa[east chalkboard]
+@snap[east]
+@fa[chalkboard]
+@snapend
 
 ---
 
 @css[west](**S**poofing)
 @css[west](**T**ampering)
-@fa[east database]
+@snap[east]
+@fa[database]
+@snapend
 
 ---
 @css[fragment]
