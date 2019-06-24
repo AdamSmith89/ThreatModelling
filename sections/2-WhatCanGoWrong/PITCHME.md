@@ -39,20 +39,28 @@ Note:
 ---
 
 <table>
-  <tr>
+  <tr class="fragment">
     <th>**S**tride</th>
     <th>@fa[database]</th>
   </tr>
-  <tr>
-    <td>Jill</td>
-    <td>25</td>
-  </tr>
   <tr class="fragment">
-    <td>Eve</td>
-    <td>94</td>
+    <th>Tampering</th>
+    <th>@fa[database]</th>
   </tr>
-  <tr class="fragment">
-    <td>John</td>
-    <td>43</td>
+    <tr class="fragment">
+    <th>Repudiation</th>
+    <th>@fa[database]</th>
+  </tr>
+    <tr class="fragment">
+    <th>Information Disclosure</th>
+    <th>@fa[database]</th>
+  </tr>
+    <tr class="fragment">
+    <th>Denial of Service</th>
+    <th>@fa[database]</th>
+  </tr>
+    <tr class="fragment">
+    <th>Elevation of Privilege</th>
+    <th>@fa[database]</th>
   </tr>
 </table>
