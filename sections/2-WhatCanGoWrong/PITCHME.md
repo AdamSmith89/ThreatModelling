@@ -2,15 +2,14 @@
 ### What Can Go Wrong?
 @snapend
 
-@snap[west span-100]
 @ul
 - **S**poofing
+- **T**ampering
+- **R**epudiation
+- **I**nformation Disclosure
+- **D**enial of Service
+- **E**levation of Privilege
 @ulend
-@snapend
-
-@snap[east span-100]
-@fa[chalkboard]
-@snapend
 
 Note:
 - Now the fun (scary) part!
@@ -23,17 +22,20 @@ Note:
 ### What Can Go Wrong?
 @snapend
 
-@snap[west span-100]
-@ul
-- **S**poofing
-- **T**ampering
-- 
-- 
-- 
-- 
-@ulend
-@snapend
+@css[west fragment](**S**poofing)
+@fa[east chalkboard]
 
-@snap[east span-100]
-@fa[database]
-@snapend
+---
+
+@css[west](**S**poofing)
+@css[west](**T**ampering)
+@fa[east database]
+
+---
+@css[fragment]
+- **T**ampering
+- **R**epudiation
+- **I**nformation Disclosure
+- **D**enial of Service
+- **E**levation of Privilege
+@ulend
