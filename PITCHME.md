@@ -1,5 +1,21 @@
 ## Threat Modelling
-### Sooner the Better, but Never Too Late
+### Sooner The Better, But Better Late Than Never
+
+---
+
+@snap[north]
+## Why Threat Model
+@snapend
+
+- Find security bugs early
+- Helps drive-out Security Requirements
+- Build better products
+- Makes us think about Security!
+
+Note:
+- You may be thinking, why do I want to add more overhead to our process!
+- SR: Is this necessary? Do we need to design for securing X?
+- Driving out requirements and spotting bugs before we've written any code reduces re-work at later, more expensive, stages of dev.
 
 ---?color=linear-gradient(90deg, white 60%, #ff8000 40%)
 @title[Agenda]

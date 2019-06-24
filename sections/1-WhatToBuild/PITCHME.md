@@ -38,8 +38,17 @@ Note:
 - If data can go either one place or another, add both!
 
 ---
+
 ### What to Model
 
+Add trust boundaries
+They show who controls what
+Can be anything from physical locations to privilege levels on a single machine
+
+Note:
+- Sometimes known as Attack Surfaces
+- Helps you focus on where threats are likely to be found
+- This is the key difference between standard diagrams
 
 ---
 @ol
