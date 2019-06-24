@@ -22,23 +22,10 @@ Note:
 ### What Can Go Wrong?
 @snapend
 
-@css[west fragment](**S**poofing)
-@snap[east]
-@fa[chalkboard]
-@snapend
-
----
-
-@css[west](**S**poofing)
-@css[west](**T**ampering)
-@snap[east]
-@fa[database]
-@snapend
-
----
-@css[fragment]
-- **T**ampering
-- **R**epudiation
+@ul
+- **S**poofing @fa[database]
+- **T**ampering @fa[chalkboard]
+- **R**epudiation @fa[arrow-up]
 - **I**nformation Disclosure
 - **D**enial of Service
 - **E**levation of Privilege
