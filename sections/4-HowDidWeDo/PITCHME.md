@@ -4,11 +4,13 @@
 
 @snap[north-west]   
 #### How Did We Do?
-<br>
-<br>
+@snapend
+
+@snap[west]
 @ol
 - Does the Threat Model represent the system?
 - Have all the threats been addressed?
+- Can we validate our mitigations?
 @olend
 @snapend
 
