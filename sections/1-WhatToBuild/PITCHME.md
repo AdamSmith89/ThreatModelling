@@ -10,7 +10,7 @@ Note:
 #### What Are We Building?
 @snapend
 
-@snap[midpoint span-200 fragment]
+@snap[midpoint span-200]
 @img[shadow](assets/img/acme-dfd-no-trust.PNG)
 @snapend
 
