@@ -3,7 +3,7 @@
 #### *Model the System*
 @snapend
 
-![](img/acme-dfd-no-trust.png)
+![](assets/img/acme-dfd-no-trust.png)
 
 Note:
 - Suggest using a DFD. Familiar to most people. Problems/threats tend to follow the data flow. Allows you to focus attention on the important parts of the system.
