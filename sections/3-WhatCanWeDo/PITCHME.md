@@ -101,15 +101,15 @@ Note:
 
 @snap[west fragment text-center span-80]
 @fa[windows fa-4x]
-Let's reinforce the window!
+<br>Let's reinforce the window!
 @snapend
 @snap[midpoint fragment text-center span-80]
 @fa[bell fa-4x]
-Let's add an laser-based alarm system!
+<br>Let's add an laser-based alarm system!
 @snapend
 @snap[east fragment text-center span-80]
 @fa[door-open fa-4x]
-We forgot about the key under the doormat...
+<br>We forgot about the key under the doormat...
 @snapend
 
 Note:
