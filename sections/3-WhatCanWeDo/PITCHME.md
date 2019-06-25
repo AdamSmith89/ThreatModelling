@@ -93,19 +93,19 @@ Note:
 
 @snap[north-west]
 #### What Can We Do?
-#### *Digging Deeper*
 @snapend
 
 @snap[north]
-@fa[digging]
+@fa[sort-numeric-down]
 @snapend
-@snap[west]
+
+@snap[west span-200 fragment]
 @fa[windows]
 @snapend
-@snap[midpoint]
-@fa[bell-exclamation]
+@snap[midpoint span-200 fragment]
+@fa[bell]
 @snapend
-@snap[east]
+@snap[east span-200 fragment]
 @fa[door-open]
 @snapend
 
