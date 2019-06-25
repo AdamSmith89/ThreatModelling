@@ -1,33 +1,4 @@
-@snap[center]
-### Model the System
-@snapend
-
-@snap[north-west fragment]
-Whiteboard
-@fa[chalkboard]
-@snapend
-
-@snap[north-east fragment]
-Visio
-@fa[project-diagram]
-@snapend
-
-@snap[south-west fragment]
-DFD
-@fa[database]
-@snapend
-
-@snap[south-east fragment]
-UML
-@fa[arrow-up]
-@snapend
-
-Note:
-- DFD on a whiteboard tends to be the most productive
-- Can transfer to an electronic copy later
-
----
-@snap[north-west span-100]
+snap[north-west span-100]
 #### What Are We Building?
 #### *Model the System*
 @snapend
