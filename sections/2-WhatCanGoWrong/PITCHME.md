@@ -22,8 +22,9 @@ Note:
 #### *Spoofing*
 @snapend
 
-
+@snap[text-12]
 <table>
+  <col width="300">
   <col width="500">
   <col width="100">
   <tr>
@@ -62,6 +63,7 @@ Note:
     <td>Authorization</td>
   </tr>
 </table>
+@snapend
 
 
 Note:
