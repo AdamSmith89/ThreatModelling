@@ -99,16 +99,16 @@ Note:
 @fa[sort-numeric-down]
 @snapend
 
-@snap[west fragment text-center text-08 span-40]
-@fa[windows fa-4x]
+@snap[west fragment text-center text-06 span-40]
+@fa[windows fa-8x]
 <br>Let's reinforce the window!
 @snapend
-@snap[midpoint fragment text-center text-04 span-40]
+@snap[midpoint fragment text-center text-06 span-40]
 @fa[bell fa-8x]
 <br>Let's add an alarm system!
 @snapend
-@snap[east fragment text-center text-02 span-40]
-@fa[door-open fa-4x]
+@snap[east fragment text-center text-06 span-40]
+@fa[door-open fa-8x]
 <br>What about the key under the doormat...
 @snapend
 
