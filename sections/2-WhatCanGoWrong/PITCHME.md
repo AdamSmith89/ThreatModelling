@@ -4,7 +4,7 @@ Note:
 - Framework to help you focus on the type of threats you might face
 - STRIDE threats are purposefully the opposite of properties we would like in our system
 - Easy to remember and apply for good results
-- There are other ways
+- there are other ways
   - Attack Trees (show example?)
   - Attack Libraries (show example?)
 
@@ -17,44 +17,76 @@ Note:
     - Low-level can be too specific (or need to create your own)
 
 ---
+@snap[north-west]
+#### What Can Go Wrong?
+#### *Spoofing*
+@snapend
+
+
+<table>
+  <col width="500">
+  <col width="100">
+  <tr>
+    <th/>
+    <th>Definition</th>
+    <th>Principle Violated</th>
+  </tr>
+  <tr class="fragment">
+    <td><b>S</b>tride</td>
+    <td>Pretending to be something or someone you are not</td>
+    <td>Autenticity</td>
+  </tr>
+  <tr class="fragment">
+    <td><b>T</b>ampering</td>
+    <td>Modifying something you aren't supposed to modify</td>
+    <td>Integrity</td>
+  </tr>
+    <tr class="fragment">
+    <td><b>R</b>epudiation</td>
+    <td>Claiming you didn't do something</td>
+    <td>Non-Repudiation</td>
+  </tr>
+    <tr class="fragment">
+    <td><b>I</b>nformation Disclosure</td>
+    <td>Exposing information to people who aren't supposed to see it</td>
+    <td>Confidentiality</td>
+  </tr>
+    <tr class="fragment">
+    <td><b>D</b>enial of Service</td>
+    <td>Preventing a system from providing service</td>
+    <td>Availability</td>
+  </tr>
+    <tr class="fragment">
+    <td><b>E</b>levation of Privilege</td>
+    <td>When a program or user is technically able to do things they are not supposed to</td>
+    <td>Authorization</td>
+  </tr>
+</table>
+
+
+Note:
+- STRIDE is the opposite of desirable properties of your system
+- there are typical victims of each threat
+- Ask for examples before showing.
+
+---
 
 @snap[north-west]
 #### What Can Go Wrong?
 #### *Spoofing*
 @snapend
 
-@snap[south-east span-50]
-Probably better showing this as a table
-@snapend
-
-@snap[north-east span-60 fragment]
-<br>
-@quote[Pretending to be something or someone you are not](Adam Shostack)
-@snapend
-
 @snap[west]
 @ul
-- Violates authenticity
 - Processes, people
 - Creating a file before the real process
 - Naming malicious process same as real process
 @ulend
 @snapend
-
-Note:
-- STRIDE is the opposite of desirable properties of your system
-- There are typical victims of each threat
-- Ask for examples before showing.
-
 ---
 @snap[north-west]
 #### What Can Go Wrong?
 #### *Tampering*
-@snapend
-
-@snap[north-east span-60 fragment]
-<br>
-@quote[Modifying something you aren't supposed to modify](Adam Shostack)
 @snapend
 
 @snap[west]
@@ -65,19 +97,10 @@ Note:
 - Modifying process memory
 @ulend
 @snapend
-
-Note:
-- 
-
 ---
 @snap[north-west]
 #### What Can Go Wrong?
 #### *Repudiation*
-@snapend
-
-@snap[north-east span-60 fragment]
-<br>
-@quote[Claiming you didn't do something](Adam Shostack)
 @snapend
 
 @snap[west]
@@ -92,16 +115,10 @@ Note:
 Note:
 - Honestly or maliciously
 - Assurance you cannot deny something
-
 ---
 @snap[north-west]
 #### What Can Go Wrong?
 #### *Information Disclosure*
-@snapend
-
-@snap[north-east span-60 fragment]
-<br>
-@quote[Exposing information to people who aren't supposed to see it](Adam Shostack)
 @snapend
 
 @snap[west]
@@ -113,16 +130,10 @@ Note:
 - (Other) File names (People To Fire.doc)
 @ulend
 @snapend
-
 ---
 @snap[north-west]
 #### What Can Go Wrong?
 #### *Denial of Service*
-@snapend
-
-@snap[north-east span-60 fragment]
-<br>
-@quote[Preventing a system from providing service](Adam Shostack)
 @snapend
 
 @snap[west]
@@ -133,16 +144,10 @@ Note:
 - Tricking a process to consume a resource
 @ulend
 @snapend
-
 ---
 @snap[north-west]
 #### What Can Go Wrong?
 #### *Elevation of Privilege*
-@snapend
-
-@snap[north-east span-60 fragment]
-<br>
-@quote[When a program or user is technically able to do things they are not supposed to](Adam Shostack)
 @snapend
 
 @snap[west]
@@ -152,10 +157,9 @@ Note:
 - Allowing a standard user to run code as admin.
 @ulend
 @snapend
-
 ---
 
-@snap[north-west text-left]
+@snap[north-west]
 #### What Can Go Wrong?
 @snapend
 
