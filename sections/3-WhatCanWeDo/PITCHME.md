@@ -96,6 +96,20 @@ Note:
 #### *Digging Deeper*
 @snapend
 
+@snap[north]
+@fa[digging]
+@snapend
+@snap[west]
+@fa[windows]
+@snapend
+@snap[midpoint]
+@fa[bell-exclamation]
+@snapend
+@snap[east]
+@fa[door-open]
+@snapend
+
+Note:
 Should I discuss 1st/2nd/3rd order mitigations?
 Window smashing, don't forget about the key under the mat!
 Cover all 1st order threats before moving on.
