@@ -12,7 +12,7 @@
 @olend
 @snapend
 
-@snap[south-east text-10 fragment]
+@snap[south text-08 fragment]
 @quote[Threat Modelling empowers Testing; Testing empowers Threat Modelling](Adam Shostack)
 @snapend
 
