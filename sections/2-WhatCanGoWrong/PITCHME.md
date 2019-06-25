@@ -64,107 +64,52 @@ Note:
 </table>
 @snapend
 
-
 Note:
 - STRIDE is the opposite of desirable properties of your system
 - there are typical victims of each threat
 - Ask for examples before showing.
+- Spoofing
+  - Processes, people
+  - Creating a file before the real process
+  - Naming malicious process same as real process
+- Tampering
+  - Data stores, data flows
+  - Modifying files a process relies on
+  - Modifying process memory
+- Repudiation
+  - Process
+  - Use someone else's account
+  - Attack logs
+- Information Disclosure
+  - Processes, data stores, data flows
+  - Usually the target of another attack
+  - (Obvious) Allowing access to files
+  - (Other) File names (People To Fire.doc)
+- Denial of Service
+  - Processes, data stores, data flows
+  - Creating many network connections/requests
+  - Tricking a process to consume a resource
+- Elevation of Privilege
+  - Process
+  - Allowing a standard user to run code as admin.
 
 ---
-
-@snap[north-west]
+@snap[north-west span-100]
 #### What Can Go Wrong?
-#### *Spoofing*
 @snapend
 
-@snap[west]
-@ul
-- Processes, people
-- Creating a file before the real process
-- Naming malicious process same as real process
-@ulend
-@snapend
----
-@snap[north-west]
-#### What Can Go Wrong?
-#### *Tampering*
-@snapend
-
-@snap[west]
-@ul
-- Violates integrity
-- Data stores, data flows
-- Modifying files a process relies on
-- Modifying process memory
-@ulend
-@snapend
----
-@snap[north-west]
-#### What Can Go Wrong?
-#### *Repudiation*
-@snapend
-
-@snap[west]
-@ul
-- Violates non-repudiation
-- Process
-- Use someone else's account
-- Attack logs
-@ulend
+@snap[midpoint span-200]
+@img[shadow](assets/img/acme-dfd-trust.PNG)
 @snapend
 
 Note:
-- Honestly or maliciously
-- Assurance you cannot deny something
----
-@snap[north-west]
-#### What Can Go Wrong?
-#### *Information Disclosure*
-@snapend
+- Can we think of any more threat?
 
-@snap[west]
-@ul
-- Violates confidentiality
-- Processes, data stores, data flows
-- Usually the target of another attack
-- (Obvious) Allowing access to files
-- (Other) File names (People To Fire.doc)
-@ulend
-@snapend
 ---
-@snap[north-west]
-#### What Can Go Wrong?
-#### *Denial of Service*
-@snapend
-
-@snap[west]
-@ul
-- Violates availability
-- Processes, data stores, data flows
-- Creating many network connections/requests
-- Tricking a process to consume a resource
-@ulend
-@snapend
----
-@snap[north-west]
-#### What Can Go Wrong?
-#### *Elevation of Privilege*
-@snapend
-
-@snap[west]
-@ul
-- Violates authorization
-- Process
-- Allowing a standard user to run code as admin.
-@ulend
-@snapend
----
-
 @snap[north-west]
 #### What Can Go Wrong?
 @snapend
 
 @ul
-- Can we find anymore threats?
 - List a few of the other threats.
 @ulend
