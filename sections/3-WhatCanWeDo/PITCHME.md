@@ -16,7 +16,7 @@
     <th>Typical Mitigations</th>
   </tr>
   <tr class="fragment">
-    <td><b>S</b>poofing</td>
+    <td><b>@color[#5289F7](S)</b>poofing</td>
     <td>
         @ul[](false)
         - Appropriate authentication
@@ -25,7 +25,7 @@
     </td>
   </tr>
   <tr class="fragment">
-    <td><b>T</b>ampering</td>
+    <td><b>@color[#5289F7](T)</b>ampering</td>
     <td>
         @ul[](false)
         - Appropriate authorization
@@ -35,7 +35,7 @@
     </td>
   </tr>
     <tr class="fragment">
-    <td><b>R</b>epudiation</td>
+    <td><b>@color[#5289F7](R)</b>epudiation</td>
     <td>
         @ul[](false)
         - Audit trails
@@ -44,7 +44,7 @@
     </td>
   </tr>
     <tr class="fragment">
-    <td><b>I</b>nformation Disclosure</td>
+    <td><b>@color[#5289F7](I)</b>nformation Disclosure</td>
     <td>
         @ul[](false)
         - Encryption
@@ -53,7 +53,7 @@
     </td>
   </tr>
     <tr class="fragment">
-    <td><b>D</b>enial of Service</td>
+    <td><b>@color[#5289F7](D)</b>enial of Service</td>
     <td>
         @ul[](false)
         - Filtering
@@ -62,7 +62,7 @@
     </td>
   </tr>
     <tr class="fragment">
-    <td><b>E</b>levation of Privilege</td>
+    <td><b>@color[#5289F7](E)</b>levation of Privilege</td>
     <td>
         @ul[](false)
         - Least privilege

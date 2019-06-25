@@ -33,7 +33,7 @@ Note:
     <th>Principle Violated</th>
   </tr>
   <tr class="fragment">
-    <td><b>@color[theme-headline](S)</b>poofing</td>
+    <td><b>@color[#5289F7](S)</b>poofing</td>
     <td>Pretending to be something or someone you are not</td>
     <td>Authenticity</td>
   </tr>
