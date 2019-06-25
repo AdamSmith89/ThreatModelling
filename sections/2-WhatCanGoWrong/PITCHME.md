@@ -1,3 +1,23 @@
+### 2. What Can Go Wrong?
+
+Note:
+- Framework to help you focus on the type of threats you might face
+- STRIDE threats are purposefully the opposite of properties we would like in our system
+- Easy to remember and apply for good results
+- There are other ways
+  - Attack Trees (show example?)
+  - Attack Libraries (show example?)
+
+  - Trees : Start with goal (repudiate data etc.) and then leaf nodes are how that is achieved
+    - Can be harder to get started.
+    - Doesn't lend itself well to our process.
+    
+- Libraries : A collection of commo attacks against a system.
+    - High-level can be too abstract
+    - Low-level can be too specific (or need to create your own)
+
+---
+
 @snap[north-west]
 #### What Can Go Wrong?
 #### *Spoofing*
@@ -132,30 +152,3 @@ Note:
 - Allowing a standard user to run code as admin.
 @ulend
 @snapend
-
----
-
-@snap[north-west]
-#### What Can Go Wrong?
-#### *Why STRIDE?*
-@snapend
-
-@snap[midpoint]
-@ul
-- Framework to help you focus on the type of threats you might face
-- STRIDE threats are purposefully the opposite of properties we would like in our system
-- Easy to remember and apply for good results
-- There are other ways
-  - Attack Trees (show example?)
-  - Attack Libraries (show example?)
-@ulend
-@snapend
-
-Note:
-- Trees : Start with goal (repudiate data etc.) and then leaf nodes are how that is achieved
-    - Can be harder to get started.
-    - Doesn't lend itself well to our process.
-    
-- Libraries : A collection of commo attacks against a system.
-    - High-level can be too abstract
-    - Low-level can be too specific (or need to create your own)

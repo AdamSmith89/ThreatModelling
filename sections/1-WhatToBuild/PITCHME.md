@@ -1,6 +1,13 @@
+### 1. What Are We Building?
+
+Note:
+- Suggest using a DFD. Familiar to most people. Problems/threats tend to follow the data flow. Allows you to focus attention on the important parts of the system.
+- If data can go either one place or another, add both!
+- Can split into multiple diagrams
+
+---
 @snap[north-west span-100]
 #### What Are We Building?
-#### *Model the System*
 @snapend
 
 @snap[midpoint span-200 fragment]
@@ -8,9 +15,6 @@
 @snapend
 
 Note:
-- Suggest using a DFD. Familiar to most people. Problems/threats tend to follow the data flow. Allows you to focus attention on the important parts of the system.
-- If data can go either one place or another, add both!
-- Can split into multiple diagrams
 - Not much different from a normal DFD
 - Difficult to find all the threats
 - Can we find any? Write them on a board!
@@ -18,7 +22,6 @@ Note:
 ---
 @snap[north-west span-100]
 #### What Are We Building?
-#### *Trust Boundaries*
 @snapend
 
 @snap[midpoint span-200]

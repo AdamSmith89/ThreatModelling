@@ -1,3 +1,7 @@
+### 3. What Can We Do?
+
+---
+
 @snap[north-west]
 #### What Can We Do?
 #### *Mitigations*
