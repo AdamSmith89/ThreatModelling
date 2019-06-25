@@ -18,7 +18,7 @@
   <tr class="fragment">
     <td><b>S</b>poofing</td>
     <td>
-        @ul
+        @ul[](false)
         - Appropriate authentication
         - Don't store secrets
         @ulend
@@ -27,40 +27,50 @@
   <tr class="fragment">
     <td><b>T</b>ampering</td>
     <td>
+        @ul[](false)
+        - Appropriate authorization
+        - HMACs
+        - Digital signatures
+        @ulend
     </td>
   </tr>
     <tr class="fragment">
     <td><b>R</b>epudiation</td>
     <td>
+        @ul[](false)
+        - Audit trails
+        - Timestamps
+        @ulend
     </td>
   </tr>
     <tr class="fragment">
     <td><b>I</b>nformation Disclosure</td>
     <td>
+        @ul[](false)
+        - Encryption
+        - Privacy-enhanced protocols
+        @ulend
     </td>
   </tr>
     <tr class="fragment">
     <td><b>D</b>enial of Service</td>
     <td>
+        @ul[](false)
+        - Filtering
+        - Throttling
+        @ulend
     </td>
   </tr>
     <tr class="fragment">
     <td><b>E</b>levation of Privilege</td>
     <td>
+        @ul[](false)
+        - Least privilege
+        @ulend
     </td>
   </tr>
 </table>
 @snapend
-
-@ul
-- S : Appropriate authentication. Don't store secrets.
-- T : Appropriate authorization. HMACs. Digital signatures.
-- R : Audit trails. Timestamps.
-- I : Encryption. Privacy-enhanced protocols.
-- D : Filtering. Throttling.
-- E : Least privilege.
-@ulend
-
 
 Note:
 - Don't have time to go into specifics, but here are some high-level common mitigations.
