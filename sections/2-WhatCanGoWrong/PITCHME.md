@@ -32,7 +32,7 @@ Note:
     <th>Principle Violated</th>
   </tr>
   <tr class="fragment">
-    <td><b>S</b>poofing</td>
+    <td class="fragment"><b>S</b>poofing</td>
     <td>Pretending to be something or someone you are not</td>
     <td>Autenticity</td>
   </tr>
