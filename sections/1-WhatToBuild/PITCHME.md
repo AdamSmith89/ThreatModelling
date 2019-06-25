@@ -4,7 +4,7 @@
 @snapend
 
 @snap[size-contain fragment]
-@img[](assets/img/acme-dfd-no-trust.PNG)
+@img[shadow](assets/img/acme-dfd-no-trust.PNG)
 @snapend
 
 Note:
@@ -22,7 +22,7 @@ Note:
 @snapend
 
 @snap[fragment]
-@img[](assets/img/acme-dfd-trust.PNG)
+@img[shadow](assets/img/acme-dfd-trust.PNG)
 @snapend
 
 Note:
