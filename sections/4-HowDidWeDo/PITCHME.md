@@ -4,16 +4,15 @@
 
 @snap[north-west]   
 #### How Did We Do?
-@snapend
-
-@snap[north-west]
+<br>
+<br>
 @ol
 - Does the Threat Model represent the system?
 - Have all the threats been addressed?
 @olend
 @snapend
 
-@snap[south-east fragment]
+@snap[south-east text-10 fragment]
 @quote[Threat Modelling empowers Testing; Testing empowers Threat Modelling](Adam Shostack)
 @snap
 
