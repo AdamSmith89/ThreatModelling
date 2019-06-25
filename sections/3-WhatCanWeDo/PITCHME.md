@@ -4,7 +4,6 @@
 
 @snap[north-west]
 #### What Can We Do?
-#### *Mitigations*
 @snapend
 
 @snap[text-06]
@@ -15,18 +14,18 @@
     <th/>
     <th>Typical Mitigations</th>
   </tr>
-  <tr class="fragment">
+  <tr>
     <td><b>@color[#5289F7](S)</b>poofing</td>
-    <td>
+    <td class="fragment">
         @ul[](false)
         - Appropriate authentication
         - Don't store secrets
         @ulend
     </td>
   </tr>
-  <tr class="fragment">
+  <tr>
     <td><b>@color[#5289F7](T)</b>ampering</td>
-    <td>
+    <td class="fragment">
         @ul[](false)
         - Appropriate authorization
         - HMACs
@@ -34,36 +33,36 @@
         @ulend
     </td>
   </tr>
-    <tr class="fragment">
+    <tr>
     <td><b>@color[#5289F7](R)</b>epudiation</td>
-    <td>
+    <td class="fragment">
         @ul[](false)
         - Audit trails
         - Timestamps
         @ulend
     </td>
   </tr>
-    <tr class="fragment">
+  <tr>
     <td><b>@color[#5289F7](I)</b>nformation Disclosure</td>
-    <td>
+    <td class="fragment">
         @ul[](false)
         - Encryption
         - Privacy-enhanced protocols
         @ulend
     </td>
   </tr>
-    <tr class="fragment">
+    <tr>
     <td><b>@color[#5289F7](D)</b>enial of Service</td>
-    <td>
+    <td class="fragment">
         @ul[](false)
         - Filtering
         - Throttling
         @ulend
     </td>
   </tr>
-    <tr class="fragment">
+    <tr>
     <td><b>@color[#5289F7](E)</b>levation of Privilege</td>
-    <td>
+    <td class="fragment">
         @ul[](false)
         - Least privilege
         @ulend
