@@ -3,7 +3,9 @@
 #### *Model the System*
 @snapend
 
-![AcmeDFD](assets/img/acme-dfd-no-trust.PNG)
+@snap[midpoint fragment]
+@img[](assets/img/acme-dfd-no-trust.PNG)
+@snapend
 
 Note:
 - Suggest using a DFD. Familiar to most people. Problems/threats tend to follow the data flow. Allows you to focus attention on the important parts of the system.
@@ -19,13 +21,12 @@ Note:
 #### *Trust Boundaries*
 @snapend
 
-@ul
-Add trust boundaries to diagram
-Can be anything from physical locations to privilege levels on a single machine
-@ulend
+@snap[midpoint fragment]
+@img[](assets/img/acme-dfd-trust.PNG)
+@snapend
 
 Note:
-- Show who controls what
+- Show who controls what. Can be anything from physical locations to privilege levels on a single machine
 - Trust Boundaries Helps you focus on where threats are likely to be found
 - Sometimes known as Attack Surfaces
 - This is the key difference between standard diagrams
