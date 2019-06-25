@@ -3,7 +3,7 @@
 #### *Model the System*
 @snapend
 
-@snap[size-contain fragment]
+@snap[fragment]
 @img[shadow](assets/img/acme-dfd-no-trust.PNG)
 @snapend
 
