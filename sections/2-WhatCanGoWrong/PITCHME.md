@@ -1,6 +1,7 @@
 ### 2. What Can Go Wrong?
 
 Note:
+- Introduce STRIDE
 - Framework to help you focus on the type of threats you might face
 - STRIDE threats are purposefully the opposite of properties we would like in our system
 - Easy to remember and apply for good results
@@ -32,7 +33,7 @@ Note:
     <th>Principle Violated</th>
   </tr>
   <tr class="fragment">
-    <td><b>S</b>poofing</td>
+    <td><b>@color[orange](S)</b>poofing</td>
     <td>Pretending to be something or someone you are not</td>
     <td>Authenticity</td>
   </tr>

@@ -18,6 +18,7 @@ Note:
 - Not much different from a normal DFD
 - Difficult to find all the threats
 - Can we find any? Write them on a board!
+- Next we are going to add trust boundaries
 
 ---
 @snap[north-west span-100]
