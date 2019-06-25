@@ -1,2 +1,4 @@
-Need to be able to define trust levels & boundaries with confidence
-Make diagram to show
+Add threats from book.
+Do I have time to ask for threats?
+Fix last couple of slides - when to threat model and key takeaways
+Better theme-ing!
