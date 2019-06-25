@@ -99,21 +99,19 @@ Note:
 @fa[sort-numeric-down]
 @snapend
 
-@snap[west span-200 fragment]
-@fa[windows]
+@snap[west fragment]
+@fa[windows fa-2x](Let's reinforce the window!)
 @snapend
-@snap[midpoint span-200 fragment]
-@fa[bell]
+@snap[midpoint fragment](Let's add an laser-based alarm system!)
+@fa[bell fa-3x]
 @snapend
-@snap[east span-200 fragment]
-@fa[door-open]
+@snap[east fragment]
+@fa[door-open fa-4x](We forgot about the key under the mat...)
 @snapend
 
 Note:
-Should I discuss 1st/2nd/3rd order mitigations?
-Window smashing, don't forget about the key under the mat!
-Cover all 1st order threats before moving on.
 Attackers target the weakest link.
+Cover all 1st order threats before moving on.
 
 ---
 
