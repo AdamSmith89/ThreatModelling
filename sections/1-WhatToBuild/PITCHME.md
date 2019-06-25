@@ -59,5 +59,3 @@ Note:
 - Show who controls what
 - Sometimes known as Attack Surfaces
 - This is the key difference between standard diagrams
-
----

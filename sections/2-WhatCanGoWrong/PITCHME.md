@@ -145,5 +145,3 @@ Note:
 - Libraries : A collection of commo attacks against a system.
     - High-level can be too abstract
     - Low-level can be too specific (or need to create your own)
-
----

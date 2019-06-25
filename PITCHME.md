@@ -43,6 +43,7 @@ Note:
 ---?include=sections/3-WhatCanWeDo/PITCHME.md
 ---?include=sections/4-HowDidWeDo/PITCHME.md
 
+---
 @snap[north span-100]
 ### When To Threat Model
 @snapend

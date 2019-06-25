@@ -67,5 +67,3 @@ Note:
 - BB : Choose a scoring mechanism (CVSS).
 - Raise items for threats not mitigated. Tasks for design update, bugs for existing code, pbi's for new features.
 - Might want to raise items/test cases for mitigated ones as well.
-
----
