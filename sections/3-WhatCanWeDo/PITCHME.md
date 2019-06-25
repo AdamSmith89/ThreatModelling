@@ -1,7 +1,6 @@
 ### 3. What Can We Do?
 
 ---
-
 @snap[north-west]
 #### What Can We Do?
 @snapend
@@ -90,13 +89,8 @@ Note:
 - Hash Message Authentication Code - a checksum
 
 ---
-
 @snap[north-west]
 #### What Can We Do?
-@snapend
-
-@snap[north]
-@fa[sort-numeric-down]
 @snapend
 
 @snap[west fragment text-06 span-40]
@@ -113,11 +107,11 @@ Note:
 @snapend
 
 Note:
+Last thing to mention is 2nd/3rd order mitigations.
 Attackers target the weakest link.
 Cover all 1st order threats before moving on.
 
 ---
-
 @snap[north-west]
 #### What Can We Do?
 @snapend
@@ -130,10 +124,9 @@ Note:
 - I'd suggest the TM tool for that
 
 ---
-
 @snap[north-west]   
 #### What Can We Do?
-#### *Prioritising Threats*
+##### Organisation and Prioritisation
 @snapend
 
 @ul
