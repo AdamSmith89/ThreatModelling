@@ -19,10 +19,9 @@ Note:
 ---
 @snap[north-west]
 #### What Can Go Wrong?
-#### *Spoofing*
 @snapend
 
-@snap[text-12]
+@snap[text-04]
 <table>
   <col width="300">
   <col width="500">
@@ -33,7 +32,7 @@ Note:
     <th>Principle Violated</th>
   </tr>
   <tr class="fragment">
-    <td><b>S</b>tride</td>
+    <td><b>S</b>poofing</td>
     <td>Pretending to be something or someone you are not</td>
     <td>Autenticity</td>
   </tr>
