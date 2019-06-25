@@ -29,7 +29,7 @@ Note:
 ### 4 Key Questions
 @snapend
 
-@snap[west span-50]
+@snap[west span-100]
 @ol[spaced]
 - What are we building?
 - What can go wrong?
@@ -41,6 +41,7 @@ Note:
 ---?include=sections/1-WhatToBuild/PITCHME.md
 ---?include=sections/2-WhatCanGoWrong/PITCHME.md
 ---?include=sections/3-WhatCanWeDo/PITCHME.md
+---?include=sections/4-HowDidWeDo/PITCHME.md
 
 @snap[north span-100]
 ### When To Threat Model

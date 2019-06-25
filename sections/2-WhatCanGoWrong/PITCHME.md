@@ -16,7 +16,9 @@ Note:
 #### *Spoofing*
 @snapend
 
+@snap[south-east span-50]
 Probably better showing this as a table
+@snapend
 
 @snap[north-east span-60 fragment]
 <br>
@@ -25,7 +27,7 @@ Probably better showing this as a table
 
 @snap[west]
 @ul
-- Violates authentication
+- Violates authenticity
 - Processes, people
 - Creating a file before the real process
 - Naming malicious process same as real process
@@ -81,7 +83,8 @@ Note:
 @snapend
 
 Note:
-- 
+- Honestly or maliciously
+- Assurance you cannot deny something
 
 ---
 @snap[north-west]
@@ -113,7 +116,7 @@ Note:
 
 @snap[north-east span-60 fragment]
 <br>
-@quote[When a program of user is technically able to do things they are not supposed to](Adam Shostack)
+@quote[When a program or user is technically able to do things they are not supposed to](Adam Shostack)
 @snapend
 
 ---
@@ -136,7 +139,11 @@ Note:
 
 Note:
 - Trees : Start with goal (repudiate data etc.) and then leaf nodes are how that is achieved
+    - Can be harder to get started.
+    - Doesn't lend itself well to our process.
     
 - Libraries : A collection of commo attacks against a system.
     - High-level can be too abstract
     - Low-level can be too specific (or need to create your own)
+
+---

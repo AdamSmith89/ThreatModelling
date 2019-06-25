@@ -17,6 +17,8 @@ Show STRIDE table with new column, common mitigations
 
 Note:
 - Don't have time to go into specifics, but here are some high-level common mitigations.
+- Authentication is confirming someone is who they say they are.
+- Authorization is controlling who can do what.
 - Hash Message Authentication Code - a checksum
 
 ---
@@ -40,6 +42,10 @@ Attackers target the weakest link.
 Organise threats so it's easy to track mitigations - threat modelling tool!
 Now add mitigations for the threats you have found.
 
+Note:
+- Need to organise threats you've found, assumptions made and mitigations proposed
+- I'd suggest the TM tool for that
+
 ---
 
 @snap[north-west]   
@@ -59,6 +65,7 @@ Note:
 - EFF : Fixes issues quickly, can be in a low priority area
 - FTA : Time-consuimg. Should be the aim for new code, TM at design time so you mitigate before code writing
 - BB : Choose a scoring mechanism (CVSS).
+- Raise items for threats not mitigated. Tasks for design update, bugs for existing code, pbi's for new features.
+- Might want to raise items/test cases for mitigated ones as well.
 
-Raise items for threats not mitigated. Tasks for design update, bugs for existing code, pbi's for new features.
-Might want to raise items/test cases for mitigated ones as well.
+---

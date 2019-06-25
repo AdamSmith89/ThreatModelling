@@ -46,7 +46,7 @@ Note:
 ---
 @snap[north-west span-100]
 #### What Are We Building?
-#### **Trust Boundaries**
+#### **Trust Levels & Boundaries**
 @snapend
 
 @ul
@@ -59,3 +59,5 @@ Note:
 - Show who controls what
 - Sometimes known as Attack Surfaces
 - This is the key difference between standard diagrams
+
+---
