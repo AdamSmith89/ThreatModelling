@@ -152,3 +152,14 @@ Note:
 - Allowing a standard user to run code as admin.
 @ulend
 @snapend
+
+---
+
+@snap[north-west text-left]
+#### What Can Go Wrong?
+@snapend
+
+@ul
+- Can we find anymore threats?
+- List a few of the other threats.
+@ulend
