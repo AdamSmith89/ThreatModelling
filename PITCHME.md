@@ -19,7 +19,7 @@ Note:
 
 Note:
 - You may be thinking, why do I want to add more overhead to our process!
-- SR: Is this necessary? Do we need to design for securing X?
+- SecREq: Is this necessary? Do we need to design for securing X?
 - Driving out requirements and spotting bugs before we've written any code reduces re-work at later, more expensive, stages of dev.
 
 ---
@@ -40,3 +40,55 @@ Note:
 
 ---?include=sections/1-WhatToBuild/PITCHME.md
 ---?include=sections/2-WhatCanGoWrong/PITCHME.md
+---?include=sections/3-WhatCanWeDo/PITCHME.md
+
+@snap[north span-100]
+### When To Threat Model
+@snapend
+
+@snap[midpoint]
+@ul
+- Part of design for new code (features/bugs)
+- It should be updated as design changes (we are bad at this)
+- Review at the end to ensure it still matches (we are bad at this)
+- Ideally legacy system should be mapped (not sure on best approach here! per-team decision? Architect role, tech debt backlog, whole team smash it in a day or two?)
+@ulend
+@snapend
+
+Note:
+- Said before, fail fast!
+
+---
+
+@snap[north span-100]
+### Key Takeaways
+@snapend
+
+@snap[midpoint]
+@ul
+- 4 questions
+- STRIDE
+- Threat Model should be a living diagram through feature development
+@ulend
+@snapend
+
+Note:
+- Remember at least this!
+- Can anyone remember the questions?
+- Can anyone remember STRIDE?
+
+---
+
+@snap[midpoint]
+Any questions?
+@snapend
+
+---
+
+@snap[north span-100]
+### Useful Resources
+@snapend
+
+- CAPEC
+- CVSS calculator
+- Threat Modelling by Adam Shostack

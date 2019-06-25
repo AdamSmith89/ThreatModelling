@@ -16,6 +16,8 @@ Note:
 #### *Spoofing*
 @snapend
 
+Probably better showing this as a table
+
 @snap[north-east span-60 fragment]
 <br>
 @quote[Pretending to be something or someone you are not](Adam Shostack)
