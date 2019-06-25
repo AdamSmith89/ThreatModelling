@@ -3,10 +3,7 @@
 #### *Model the System*
 @snapend
 
-@ul
-Basic DFD with components and links
-What threats can you find?
-@ulend
+![](img/acme-dfd-no-trust.png)
 
 Note:
 - Suggest using a DFD. Familiar to most people. Problems/threats tend to follow the data flow. Allows you to focus attention on the important parts of the system.
