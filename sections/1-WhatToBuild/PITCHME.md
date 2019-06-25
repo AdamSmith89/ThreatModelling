@@ -3,7 +3,7 @@
 #### *Model the System*
 @snapend
 
-@snap[fragment]
+@snap[midpoint fragment]
 @img[shadow](assets/img/acme-dfd-no-trust.PNG)
 @snapend
 
@@ -21,7 +21,9 @@ Note:
 #### *Trust Boundaries*
 @snapend
 
+@snap[midpoint]
 @img[shadow](assets/img/acme-dfd-trust.PNG)
+@snapend
 
 Note:
 - Show who controls what. Can be anything from physical locations to privilege levels on a single machine
