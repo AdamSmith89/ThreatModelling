@@ -13,7 +13,7 @@
 @snapend
 
 @snap[south text-08 fragment]
-@quote[Threat Modelling empowers Testing; Testing empowers Threat Modelling](Adam Shostack)
+@quote[Threat Modelling empowers Testing;<br>Testing empowers Threat Modelling](Adam Shostack)
 @snapend
 
 Note:
