@@ -3,7 +3,7 @@
 #### *Model the System*
 @snapend
 
-@snap[midpoint fragment]
+@snap[midpoint span-200 fragment]
 @img[shadow](assets/img/acme-dfd-no-trust.PNG)
 @snapend
 
@@ -21,7 +21,7 @@ Note:
 #### *Trust Boundaries*
 @snapend
 
-@snap[midpoint]
+@snap[midpoint span-200]
 @img[shadow](assets/img/acme-dfd-trust.PNG)
 @snapend
 
