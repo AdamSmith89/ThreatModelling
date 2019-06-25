@@ -104,12 +104,12 @@ Note:
 <br>Let's reinforce the window!
 @snapend
 @snap[midpoint fragment text-center text-04 span-40]
-@fa[bell fa-4x]
-<br>Let's add an laser-based alarm system!
+@fa[bell fa-8x]
+<br>Let's add an alarm system!
 @snapend
 @snap[east fragment text-center text-02 span-40]
 @fa[door-open fa-4x]
-<br>We forgot about the key under the doormat...
+<br>What about the key under the doormat...
 @snapend
 
 Note:
