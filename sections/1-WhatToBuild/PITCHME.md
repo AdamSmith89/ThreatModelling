@@ -1,4 +1,4 @@
-snap[north-west span-100]
+@snap[north-west span-100]
 #### What Are We Building?
 #### *Model the System*
 @snapend
