@@ -99,14 +99,14 @@ Note:
 @fa[sort-numeric-down]
 @snapend
 
-@snap[west fragment]
+@snap[west fragment text-02]
 @fa[windows fa-2x](Let's reinforce the window!)
 @snapend
-@snap[midpoint fragment](Let's add an laser-based alarm system!)
-@fa[bell fa-3x]
+@snap[midpoint fragment text-02]
+@fa[bell fa-2x](Let's add an laser-based alarm system!)
 @snapend
-@snap[east fragment]
-@fa[door-open fa-4x](We forgot about the key under the mat...)
+@snap[east fragment text-02]
+@fa[door-open fa-2x](We forgot about the key under the mat...)
 @snapend
 
 Note:
