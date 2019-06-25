@@ -104,6 +104,8 @@ Note:
 
 Note:
 - Can we think of any more threat?
+- STRIDE per interaction
+- STRIDE per threat
 
 ---
 @snap[north-west]

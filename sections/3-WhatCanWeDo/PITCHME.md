@@ -7,7 +7,50 @@
 #### *Mitigations*
 @snapend
 
-Show STRIDE table with new column, common mitigations
+@snap[text-06]
+<table>
+  <col width="250">
+  <col width="500">
+  <tr>
+    <th/>
+    <th>Typical Mitigations</th>
+  </tr>
+  <tr class="fragment">
+    <td><b>S</b>poofing</td>
+    <td>
+        @ul
+        - Appropriate authentication
+        - Don't store secrets
+        @ulend
+    </td>
+  </tr>
+  <tr class="fragment">
+    <td><b>T</b>ampering</td>
+    <td>
+    </td>
+  </tr>
+    <tr class="fragment">
+    <td><b>R</b>epudiation</td>
+    <td>
+    </td>
+  </tr>
+    <tr class="fragment">
+    <td><b>I</b>nformation Disclosure</td>
+    <td>
+    </td>
+  </tr>
+    <tr class="fragment">
+    <td><b>D</b>enial of Service</td>
+    <td>
+    </td>
+  </tr>
+    <tr class="fragment">
+    <td><b>E</b>levation of Privilege</td>
+    <td>
+    </td>
+  </tr>
+</table>
+@snapend
 
 @ul
 - S : Appropriate authentication. Don't store secrets.
