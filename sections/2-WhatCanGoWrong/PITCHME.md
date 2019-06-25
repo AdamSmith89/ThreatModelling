@@ -2,39 +2,13 @@
 #### What Can Go Wrong?
 @snapend
 
-<table>
-  <col width="500">
-  <col width="100">
-  <tr class="fragment">
-    <th><b>S</b>tride</th>
-    <th>@fa[database]</th>
-  </tr>
-  <tr class="fragment">
-    <th><b>T</b>ampering</th>
-    <th>@fa[chalkboard]</th>
-  </tr>
-    <tr class="fragment">
-    <th><b>R</b>epudiation</th>
-    <th>@fa[arrow-up]</th>
-  </tr>
-    <tr class="fragment">
-    <th><b>I</b>nformation Disclosure</th>
-    <th>@fa[database]</th>
-  </tr>
-    <tr class="fragment">
-    <th><b>D</b>enial of Service</th>
-    <th>@fa[database]</th>
-  </tr>
-    <tr class="fragment">
-    <th><b>E</b>levation of Privilege</th>
-    <th>@fa[database]</th>
-  </tr>
-</table>
+@snap[midpoint]
+Show diagram we just finished
+@snapend
 
 Note:
-- Now the fun (scary) part!
-- Could get everyone to think of threats.
-- Going to suggest using STRIDE
+- What threats can you think of?
+- Write them on a board!
 
 ---
 @snap[north-west]
@@ -42,7 +16,7 @@ Note:
 #### *Spoofing*
 @snapend
 
-@snap[north-east span-75 fragment]
+@snap[north-east span-60 fragment]
 <br>
 @quote[Pretending to be something or someone you are not](Adam Shostack)
 @snapend
@@ -63,10 +37,11 @@ Note:
 
 ---
 @snap[north-west]
-#### What Can Go Wrong? *Tampering*
+#### What Can Go Wrong?
+####*Tampering*
 @snapend
 
-@snap[north-east span-75 fragment]
+@snap[north-east span-60 fragment]
 <br>
 @quote[Modifying something you aren't supposed to modify](Adam Shostack)
 @snapend
@@ -85,10 +60,11 @@ Note:
 
 ---
 @snap[north-west]
-#### What Can Go Wrong? *Repudiation*
+#### What Can Go Wrong?
+#### *Repudiation*
 @snapend
 
-@snap[north-east span-75 fragment]
+@snap[north-east span-60 fragment]
 <br>
 @quote[Claiming you didn't do something](Adam Shostack)
 @snapend
@@ -107,30 +83,58 @@ Note:
 
 ---
 @snap[north-west]
-#### What Can Go Wrong? *Information Disclosure*
+#### What Can Go Wrong?
+#### *Information Disclosure*
 @snapend
 
-@snap[north-east span-75 fragment]
+@snap[north-east span-60 fragment]
 <br>
 @quote[Exposing information to people who aren't supposed to see it](Adam Shostack)
 @snapend
 
 ---
 @snap[north-west]
-#### What Can Go Wrong? *Denial of Service*
+#### What Can Go Wrong?
+#### *Denial of Service*
 @snapend
 
-@snap[north-east span-75 fragment]
+@snap[north-east span-60 fragment]
 <br>
 @quote[Preventing a system from providing service](Adam Shostack)
 @snapend
 
 ---
 @snap[north-west]
-#### What Can Go Wrong? *Elevation of Privilege*
+#### What Can Go Wrong?
+#### *Elevation of Privilege*
 @snapend
 
-@snap[north-east span-75 fragment]
+@snap[north-east span-60 fragment]
 <br>
 @quote[When a program of user is technically able to do things they are not supposed to](Adam Shostack)
 @snapend
+
+---
+
+@snap[north-west]
+#### What Can Go Wrong?
+#### *Why STRIDE?*
+@snapend
+
+@snap[midpoint]
+@ul
+- Framework to help you focus on the type of threats you might face
+- STRIDE threats are purposefully the opposite of properties we would like in our system
+- Easy to remember and apply for good results
+- There are other ways
+  - Attack Trees (show example?)
+  - Attack Libraries (show example?)
+@ulend
+@snapend
+
+Note:
+- Trees : Start with goal (repudiate data etc.) and then leaf nodes are how that is achieved
+    
+- Libraries : A collection of commo attacks against a system.
+    - High-level can be too abstract
+    - Low-level can be too specific (or need to create your own)
