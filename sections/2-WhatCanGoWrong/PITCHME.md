@@ -33,33 +33,33 @@ Note:
   </tr>
   <tr class="fragment">
     <td class="fragment"><b>S</b>poofing</td>
-    <td>Pretending to be something or someone you are not</td>
-    <td>Autenticity</td>
+    <td class="fragment">Pretending to be something or someone you are not</td>
+    <td class="fragment">Authenticity</td>
   </tr>
   <tr class="fragment">
-    <td><b>T</b>ampering</td>
-    <td>Modifying something you aren't supposed to modify</td>
-    <td>Integrity</td>
+    <td class="fragment"><b>T</b>ampering</td>
+    <td class="fragment">Modifying something you aren't supposed to modify</td>
+    <td class="fragment">Integrity</td>
   </tr>
     <tr class="fragment">
-    <td><b>R</b>epudiation</td>
-    <td>Claiming you didn't do something</td>
-    <td>Non-Repudiation</td>
+    <td class="fragment"><b>R</b>epudiation</td>
+    <td class="fragment">Claiming you didn't do something</td>
+    <td class="fragment">Non-Repudiation</td>
   </tr>
     <tr class="fragment">
-    <td><b>I</b>nformation Disclosure</td>
-    <td>Exposing information to people who aren't supposed to see it</td>
-    <td>Confidentiality</td>
+    <td class="fragment"><b>I</b>nformation Disclosure</td>
+    <td class="fragment">Exposing information to people who aren't supposed to see it</td>
+    <td class="fragment">Confidentiality</td>
   </tr>
     <tr class="fragment">
-    <td><b>D</b>enial of Service</td>
-    <td>Preventing a system from providing service</td>
-    <td>Availability</td>
+    <td class="fragment"><b>D</b>enial of Service</td>
+    <td class="fragment">Preventing a system from providing service</td>
+    <td class="fragment">Availability</td>
   </tr>
     <tr class="fragment">
-    <td><b>E</b>levation of Privilege</td>
-    <td>When a program or user is technically able to do things they are not supposed to</td>
-    <td>Authorization</td>
+    <td class="fragment"><b>E</b>levation of Privilege</td>
+    <td class="fragment">When a program or user is technically able to do things they are not supposed to</td>
+    <td class="fragment">Authorization</td>
   </tr>
 </table>
 @snapend
