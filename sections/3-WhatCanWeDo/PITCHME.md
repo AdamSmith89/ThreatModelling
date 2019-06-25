@@ -101,7 +101,9 @@ Note:
 
 @snap[west fragment]
 @fa[windows fa-4x]
-@css[text-center](<br>Let's reinforce the window!)
+@snap[text-center]
+Let's reinforce the window!
+@snapend
 @snapend
 @snap[midpoint fragment text-02 text-center]
 @fa[bell fa-4x](<br>Let's add an laser-based alarm system!)
