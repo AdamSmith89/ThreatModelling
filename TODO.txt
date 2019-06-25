@@ -1,2 +1,2 @@
 Need to be able to define trust levels & boundaries with confidence
-Don't need slide to find threats with boundaries
+Make diagram to show

@@ -50,10 +50,10 @@ Note:
 
 @snap[midpoint]
 @ul
-- Part of design for new code (features/bugs)
+- Part of design for new code (features/bugs)   
 - It should be updated as design changes (we are bad at this)
 - Review at the end to ensure it still matches (we are bad at this)
-- Ideally legacy system should be mapped (not sure on best approach here! per-team decision? Architect role, tech debt backlog, whole team smash it in a day or two?)
+- Ideally legacy system should be TM'd (not sure on best approach here! per-team decision? Architect role, tech debt backlog, whole team smash it in a day or two?)
 @ulend
 @snapend
 
@@ -68,7 +68,7 @@ Note:
 
 @snap[midpoint]
 @ul
-- 4 questions
+- 4 Key Questions
 - STRIDE
 - Threat Model should be a living diagram through feature development
 @ulend

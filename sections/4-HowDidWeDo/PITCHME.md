@@ -10,3 +10,6 @@
 - Have all the identified issues been addressed?
 - Longer term, are we seeing less security bugs raised?
 @ulend
+
+Note:
+- Did we do a decent job of analysis

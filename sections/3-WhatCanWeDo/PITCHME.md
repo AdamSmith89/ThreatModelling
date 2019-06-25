@@ -1,6 +1,6 @@
 @snap[north-west]
 #### What Can We Do?
-#### **Mitigations**
+#### *Mitigations*
 @snapend
 
 Show STRIDE table with new column, common mitigations
@@ -50,7 +50,7 @@ Note:
 
 @snap[north-west]   
 #### What Can We Do?
-#### **Prioritising Threats**
+#### *Prioritising Threats*
 @snapend
 
 @ul

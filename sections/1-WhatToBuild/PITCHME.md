@@ -29,7 +29,7 @@ Note:
 ---
 @snap[north-west span-100]
 #### What Are We Building?
-#### **Model the System**
+#### *Model the System*
 @snapend
 
 @ul
@@ -46,7 +46,7 @@ Note:
 ---
 @snap[north-west span-100]
 #### What Are We Building?
-#### **Trust Levels & Boundaries**
+#### *Trust Levels & Boundaries*
 @snapend
 
 @ul

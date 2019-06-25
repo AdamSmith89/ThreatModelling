@@ -1,18 +1,5 @@
 @snap[north-west]
 #### What Can Go Wrong?
-@snapend
-
-@snap[midpoint]
-Show diagram we just finished
-@snapend
-
-Note:
-- What threats can you think of?
-- Write them on a board!
-
----
-@snap[north-west]
-#### What Can Go Wrong?
 #### *Spoofing*
 @snapend
 
@@ -42,7 +29,7 @@ Note:
 ---
 @snap[north-west]
 #### What Can Go Wrong?
-####*Tampering*
+#### *Tampering*
 @snapend
 
 @snap[north-east span-60 fragment]
@@ -97,6 +84,16 @@ Note:
 @quote[Exposing information to people who aren't supposed to see it](Adam Shostack)
 @snapend
 
+@snap[west]
+@ul
+- Violates confidentiality
+- Processes, data stores, data flows
+- Usually the target of another attack
+- (Obvious) Allowing access to files
+- (Other) File names (People To Fire.doc)
+@ulend
+@snapend
+
 ---
 @snap[north-west]
 #### What Can Go Wrong?
@@ -108,6 +105,15 @@ Note:
 @quote[Preventing a system from providing service](Adam Shostack)
 @snapend
 
+@snap[west]
+@ul
+- Violates availability
+- Processes, data stores, data flows
+- Creating many network connections/requests
+- Tricking a process to consume a resource
+@ulend
+@snapend
+
 ---
 @snap[north-west]
 #### What Can Go Wrong?
@@ -117,6 +123,14 @@ Note:
 @snap[north-east span-60 fragment]
 <br>
 @quote[When a program or user is technically able to do things they are not supposed to](Adam Shostack)
+@snapend
+
+@snap[west]
+@ul
+- Violates authorization
+- Process
+- Allowing a standard user to run code as admin.
+@ulend
 @snapend
 
 ---
