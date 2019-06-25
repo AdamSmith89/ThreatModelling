@@ -17,55 +17,67 @@
   <tr>
     <td><b>@color[#5289F7](S)</b>poofing</td>
     <td>
-        @ul
+        @snap[fragment]
+        @ul[](false)
         - Appropriate authentication
         - Don't store secrets
         @ulend
+        @snapend
     </td>
   </tr>
   <tr>
     <td><b>@color[#5289F7](T)</b>ampering</td>
     <td>
-        @ul
+        @snap[fragment]
+        @ul[](false)
         - Appropriate authorization
         - HMACs
         - Digital signatures
         @ulend
+        @snapend
     </td>
   </tr>
     <tr>
     <td><b>@color[#5289F7](R)</b>epudiation</td>
-    <td class="fragment">
+    <td>
+        @snap[fragment]
         @ul[](false)
         - Audit trails
         - Timestamps
         @ulend
+        @snapend
     </td>
   </tr>
   <tr>
     <td><b>@color[#5289F7](I)</b>nformation Disclosure</td>
-    <td class="fragment">
+    <td>
+        @snap[fragment]
         @ul[](false)
         - Encryption
         - Privacy-enhanced protocols
         @ulend
+        @snapend
     </td>
   </tr>
     <tr>
     <td><b>@color[#5289F7](D)</b>enial of Service</td>
-    <td class="fragment">
+    <td>
+        @snap[fragment]
         @ul[](false)
         - Filtering
         - Throttling
         @ulend
+        @snapend
     </td>
   </tr>
     <tr>
     <td><b>@color[#5289F7](E)</b>levation of Privilege</td>
-    <td class="fragment">
+    <td>
+        @snap[fragment]
         @ul[](false)
         - Least privilege
         @ulend
+        @snapend
     </td>
   </tr>
 </table>
