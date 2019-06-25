@@ -100,13 +100,13 @@ Note:
 @snapend
 
 @snap[west fragment text-02]
-@fa[windows fa-2x](Let's reinforce the window!)
+@fa[windows fa-3x](<br>Let's reinforce the window!)
 @snapend
 @snap[midpoint fragment text-02]
-@fa[bell fa-2x](Let's add an laser-based alarm system!)
+@fa[bell fa-3x](<br>Let's add an laser-based alarm system!)
 @snapend
 @snap[east fragment text-02]
-@fa[door-open fa-2x](We forgot about the key under the mat...)
+@fa[door-open fa-3x](<br>We forgot about the key under the mat...)
 @snapend
 
 Note:
