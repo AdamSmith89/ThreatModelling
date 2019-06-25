@@ -21,11 +21,11 @@ Note:
 #### What Can Go Wrong?
 @snapend
 
-@snap[text-04]
+@snap[text-06]
 <table>
-  <col width="300">
+  <col width="250">
   <col width="500">
-  <col width="100">
+  <col width="150">
   <tr>
     <th/>
     <th>Definition</th>
