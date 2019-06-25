@@ -99,8 +99,11 @@ Note:
 @fa[sort-numeric-down]
 @snapend
 
-@snap[west fragment text-02 text-center]
-@fa[windows fa-4x](<br>Let's reinforce the window!)
+@snap[west fragment]
+@fa[windows fa-4x](
+    @snap[text-02 text-center]
+    <br>Let's reinforce the window!
+    @snapend)
 @snapend
 @snap[midpoint fragment text-02 text-center]
 @fa[bell fa-4x](<br>Let's add an laser-based alarm system!)
