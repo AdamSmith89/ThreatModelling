@@ -16,8 +16,8 @@
   </tr>
   <tr>
     <td><b>@color[#5289F7](S)</b>poofing</td>
-    <td class="fragment">
-        @ul[](false)
+    <td>
+        @ul
         - Appropriate authentication
         - Don't store secrets
         @ulend
@@ -25,8 +25,8 @@
   </tr>
   <tr>
     <td><b>@color[#5289F7](T)</b>ampering</td>
-    <td class="fragment">
-        @ul[](false)
+    <td>
+        @ul
         - Appropriate authorization
         - HMACs
         - Digital signatures
