@@ -14,7 +14,7 @@
 
 @snap[south-east text-10 fragment]
 @quote[Threat Modelling empowers Testing; Testing empowers Threat Modelling](Adam Shostack)
-@snap
+@snapend
 
 Note:
 - Did we do a decent job of analysis
