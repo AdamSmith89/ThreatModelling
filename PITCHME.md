@@ -1,7 +1,7 @@
 @snap[text-gold text-20]
 Threat Modelling
 @snapend
-@snap[fragment]
+@snap[text-black text-italic text-16]
 ### *Sooner The Better, But Better Late Than Never*
 @snapend
 
