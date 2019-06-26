@@ -6,7 +6,7 @@
 Note:
 - Great quote from OWASP
 
----?color=linear-gradient(90deg, gray 20%, white 80%)
+---?color=linear-gradient(90deg, blue 50%, white 50%)
 
 @snap[north span-100]
 ### Why Threat Model

@@ -3,6 +3,10 @@
 2. What Can Go Wrong?
 @snapend
 
+@snap[south-east text-02 text-orange]
+Photo by [Viktor Jakovlev](https://unsplash.com/@apviktor?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/risk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+@snapend
+
 Note:
 - Introduce STRIDE
 - Framework to help you focus on the type of threats you might face

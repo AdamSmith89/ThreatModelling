@@ -1,10 +1,10 @@
----?image=assets/img/architect.jpg&size=cover
+---?image=assets/img/design.jpg&size=cover
 @snap[text-orange text-16]
 1. What Are We Building?
 @snapend
 
-@snap[south-east text-02 text-white]
-Photo by [Daniel McCullough](https://unsplash.com/@d_mccullough?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/architect?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+@snap[south-east text-02 text-orange]
+Photo by [Kelly Sikkema](https://unsplash.com/@kellysikkema?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/design?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 @snapend
 
 Note:
