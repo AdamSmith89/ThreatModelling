@@ -14,13 +14,13 @@ Note:
 @snapend
 
 @snap[north-west fragment]
-<br>
+<br><br>
 Fail Fast
 @snapend
 
-@snap[north-east fragment]
-<br><br>
+@snap[east fragment]
 Define security requirements
+<br><br>
 @snapend
 
 @snap[west fragment]
@@ -30,6 +30,7 @@ Build better products
 
 @snap[south-east fragment]
 Makes us think Security!
+<br>
 @snapend
 
 Note:
