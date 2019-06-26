@@ -183,7 +183,7 @@ Note:
 #### What Can We Do?
 @snapend
 
-@img[](assets/img/tm_tool.png)
+@img[shadow span-80](assets/img/tm_tool.png)
 
 Note:
 - Suggests threats based on components added to diagram

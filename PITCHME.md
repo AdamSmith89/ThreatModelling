@@ -29,7 +29,7 @@ Build better products
 @snapend
 
 @snap[south-east text-center fragment]
-Makes us think Security!
+Makes us think about Security!
 <br>    
 @snapend
 
