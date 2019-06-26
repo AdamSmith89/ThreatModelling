@@ -1,5 +1,5 @@
----?image=assets/img/architect.jpg
-### 1. What Are We Building?
+---?image=assets/img/architect.jpg&size=cover
+@css[text-white](### 1. What Are We Building?)
 
 @snap[south-east text-02]
 Photo by [Daniel McCullough](https://unsplash.com/@d_mccullough?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/architect?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
