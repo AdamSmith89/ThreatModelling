@@ -1,4 +1,13 @@
-### 4. How Did We Do?
+---?image=assets/img/thumbup.jpg&size=cover
+@snap[text-orange text-16]
+4. How Did We Do?
+@snapend
+
+@snap[south-east text-02 text-orange]
+Photo by [Artem Beliaikin @belart84](https://unsplash.com/@belart84?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/thumbs-up?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+@snapend
+
+Photo by Artem Beliaikin @belart84 on Unsplash
 
 ---
 
