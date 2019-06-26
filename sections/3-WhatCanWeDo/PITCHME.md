@@ -130,12 +130,64 @@ Cover all 1st order threats before moving on.
 #### What Can We Do?
 @snapend
 
-Organise threats so it's easy to track mitigations - threat modelling tool!
-Now add mitigations for the threats you have found.
+@snap[text-06]
+<table>
+  <col width="300">
+  <col width="300">
+  <col width="300">
+  <tr>
+    <th>Interaction</th>
+    <th>Threat</th>
+    <th>Mitigation</th>
+  </tr>
+  <tr>
+    <td>Some interaction</td>
+    <td>Threat posed</td>
+    <td class="fragment">Mitigation</td>
+  </tr>
+  <tr>
+    <td>Some interaction</td>
+    <td>Threat posed</td>
+    <td class="fragment">Mitigation</td>
+  </tr>
+  <tr>
+    <td>Some interaction</td>
+    <td>Threat posed</td>
+    <td class="fragment">Mitigation</td>
+  </tr>
+  <tr>
+    <td>Some interaction</td>
+    <td>Threat posed</td>
+    <td class="fragment">Mitigation</td>
+  </tr>
+  <tr>
+    <td>Some interaction</td>
+    <td>Threat posed</td>
+    <td class="fragment">Mitigation</td>
+  </tr>
+  <tr>
+    <td>Some interaction</td>
+    <td>Threat posed</td>
+    <td class="fragment">Mitigation</td>
+  </tr>
+</table>
+@snapend
 
 Note:
-- Need to organise threats you've found, assumptions made and mitigations proposed
-- I'd suggest the TM tool for that
+- So lets add our mitigations to our previous threat table.
+- We do this so it's easy to keep track of and test later.
+- Microsoft TM Tool
+
+---
+@snap[north-west]
+#### What Can We Do?
+@snapend
+
+@img[](assets/img/tm_tool.png)
+
+Note:
+- Suggests threats based on components added to diagram
+- Can generate reports
 
 ---
 @snap[north-west]

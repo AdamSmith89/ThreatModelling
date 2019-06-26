@@ -120,6 +120,37 @@ Note:
 #### What Can Go Wrong?
 @snapend
 
-@ul
-- List a few of the other threats.
-@ulend
+@snap[text-06]
+<table>
+  <col width="300">
+  <col width="300">
+  <tr>
+    <th>Interaction</th>
+    <th>Threat</th>
+  </tr>
+  <tr class="fragment">
+    <td>Some interaction</td>
+    <td>Threat posed</td>
+  </tr>
+  <tr class="fragment">
+    <td>Some interaction</td>
+    <td>Threat posed</td>
+  </tr>
+  <tr class="fragment">
+    <td>Some interaction</td>
+    <td>Threat posed</td>
+  </tr>
+  <tr class="fragment">
+    <td>Some interaction</td>
+    <td>Threat posed</td>
+  </tr>
+  <tr class="fragment">
+    <td>Some interaction</td>
+    <td>Threat posed</td>
+  </tr>
+  <tr class="fragment">
+    <td>Some interaction</td>
+    <td>Threat posed</td>
+  </tr>
+</table>
+@snapend
