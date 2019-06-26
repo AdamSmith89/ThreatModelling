@@ -192,7 +192,6 @@ Note:
 ---
 @snap[north-west]
 #### What Can We Do?
-##### Organisation and Prioritisation
 @snapend
 
 @ul
@@ -203,6 +202,7 @@ Note:
 @ulend
 
 Note:
+- Got all your threat/mitigations. What do you do with them?!
 - WaS : lightweight, can be catastrophic
 - EFF : Fixes issues quickly, can be in a low priority area
 - FTA : Time-consuimg. Should be the aim for new code, TM at design time so you mitigate before code writing
