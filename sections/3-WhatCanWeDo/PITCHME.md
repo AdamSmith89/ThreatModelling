@@ -1,7 +1,7 @@
 ---?image=assets/img/thinking2.jpg&size=cover
 @snap[text-orange text-16]
 3. What Can We Do?
-<br>
+<br><br><br>
 @snapend
 
 @snap[south-east text-02 text-orange]
