@@ -1,4 +1,9 @@
+---?image=assets/img/architect.jpg
 ### 1. What Are We Building?
+
+@snap[south-east]
+Photo by Daniel McCullough on Unsplash
+@snapend
 
 Note:
 - Suggest using a DFD. Familiar to most people. Problems/threats tend to follow the data flow. Allows you to focus attention on the important parts of the system.
