@@ -30,7 +30,7 @@ Build better products
 
 @snap[south-east fragment]
 Makes us think Security!
-<br>
+<br>    
 @snapend
 
 Note:
@@ -44,7 +44,7 @@ Note:
 ### 4 Key Questions
 @snapend
 
-@snap[west]
+@snap[midpoint text-left]
 @ol
 - What are we building?
 - What can go wrong?
