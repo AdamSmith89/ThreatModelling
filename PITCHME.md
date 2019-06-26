@@ -49,26 +49,27 @@ Note:
 @snapend
 
 @snap[west fragment]
-@fa[play]@note[Part of design for new code (features/bugs)]
+@fa[play fa-4x]
 @snapend
 
-@snap[midpoint fragment]@note[It should be updated as design changes (we are bad at this)]
-@fa[sync-alt]
+@snap[midpoint fragment]
+@fa[sync-alt fa-4x]
 @snapend
 
 @snap[east fragment]
-@fa[flag-checkered]
-@ul
-- @note[Review at the end to ensure it still matches (we are bad at this)]
-@ulend
+@fa[flag-checkered fa-4x]
 @snapend
 
 @snap[south fragment]
-@fa[cloud-meatball]
-@note[Ideally legacy system should be TM'd (not sure on best approach here! per-team decision? Architect role, tech debt backlog, whole team smash it in a day or two?)]
+@fa[cloud-meatball fa-4x]
 @snapend
 
 Note:
+- Part of design for new code (features/bugs)
+- It should be updated as design changes (we are bad at this)
+- Review at the end to ensure it still matches (we are bad at this)
+- Ideally legacy system should be TM'd
+  - Don't do it? Per-team decision? Architect role? TD backlog? Team smash it in a day or two?
 - Look at it like TDD, write test-cases first (find threats first to create tests)
 - Said before, fail fast!
 
