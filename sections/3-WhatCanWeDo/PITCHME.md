@@ -1,4 +1,7 @@
-### 3. What Can We Do?
+---?image=assets/img/thinking2.jpg&size=cover
+@snap[text-orange text-16]
+3. What Can We Do?
+@snapend
 
 ---
 @snap[north-west]
