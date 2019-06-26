@@ -64,8 +64,12 @@ Note:
 @fa[flag-checkered fa-4x]
 @snapend
 
-@snap[south fragment]
+@snap[north fragment]
 @fa[cloud-meatball fa-4x]
+@snapend
+
+@snap[south text-08 span-120 fragment]
+@quote[Threat Modelling empowers Testing;<br>Testing empowers Threat Modelling](Adam Shostack)
 @snapend
 
 Note:

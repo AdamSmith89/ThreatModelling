@@ -14,10 +14,6 @@
 @olend
 @snapend
 
-@snap[south text-08 span-120 fragment]
-@quote[Threat Modelling empowers Testing;<br>Testing empowers Threat Modelling](Adam Shostack)
-@snapend
-
 Note:
 - Did we do a decent job of analysis
 - Threats and mitigations make great test cases!
