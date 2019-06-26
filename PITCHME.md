@@ -49,18 +49,18 @@ Note:
 @snapend
 
 @snap[west fragment]
-@fa[play]
-@note[Part of design for new code (features/bugs)]
+@fa[play]@note[Part of design for new code (features/bugs)]
 @snapend
 
-@snap[midpoint fragment]
+@snap[midpoint fragment]@note[It should be updated as design changes (we are bad at this)]
 @fa[sync-alt]
-@note[It should be updated as design changes (we are bad at this)]
 @snapend
 
 @snap[east fragment]
 @fa[flag-checkered]
-@note[Review at the end to ensure it still matches (we are bad at this)]
+@ul
+- @note[Review at the end to ensure it still matches (we are bad at this)]
+@ulend
 @snapend
 
 @snap[south fragment]
