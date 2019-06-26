@@ -1,3 +1,4 @@
+?image=assets/img/shark.jpg&size=cover
 ### 2. What Can Go Wrong?
 
 Note:
