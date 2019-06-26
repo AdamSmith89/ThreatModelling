@@ -1,4 +1,5 @@
-## Threat Modelling
+@snap[text-orange text-18]
+Threat Modelling
 @snap[fragment]
 ### *Sooner The Better, But Better Late Than Never*
 @snapend
@@ -6,7 +7,7 @@
 Note:
 - Great quote from OWASP
 
----?color=linear-gradient(90deg, blue 50%, white 50%)
+---?color=linear-gradient(90deg, orange 20%, white 20%)
 
 @snap[north span-100]
 ### Why Threat Model
