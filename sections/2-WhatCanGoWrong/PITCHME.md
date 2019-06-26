@@ -1,5 +1,7 @@
-?image=assets/img/shark.jpg&size=cover
-### 2. What Can Go Wrong?
+---?image=assets/img/shark.jpg&size=cover
+@snap[text-orange text-16]
+2. What Can Go Wrong?
+@snapend
 
 Note:
 - Introduce STRIDE
