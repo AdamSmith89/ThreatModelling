@@ -14,7 +14,7 @@
     <th>Typical Mitigations</th>
   </tr>
   <tr>
-    <td><b>@color[#5289F7](S)</b>poofing</td>
+    <td><b>@color[#E58537](S)</b>poofing</td>
     <td>
         @snap[fragment]
         @ul[](false)
@@ -25,7 +25,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>@color[#5289F7](T)</b>ampering</td>
+    <td><b>@color[#E58537](T)</b>ampering</td>
     <td>
         @snap[fragment]
         @ul[](false)
@@ -37,7 +37,7 @@
     </td>
   </tr>
     <tr>
-    <td><b>@color[#5289F7](R)</b>epudiation</td>
+    <td><b>@color[#E58537](R)</b>epudiation</td>
     <td>
         @snap[fragment]
         @ul[](false)
@@ -48,7 +48,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>@color[#5289F7](I)</b>nformation Disclosure</td>
+    <td><b>@color[#E58537](I)</b>nformation Disclosure</td>
     <td>
         @snap[fragment]
         @ul[](false)
@@ -59,7 +59,7 @@
     </td>
   </tr>
     <tr>
-    <td><b>@color[#5289F7](D)</b>enial of Service</td>
+    <td><b>@color[#E58537](D)</b>enial of Service</td>
     <td>
         @snap[fragment]
         @ul[](false)
@@ -70,7 +70,7 @@
     </td>
   </tr>
     <tr>
-    <td><b>@color[#5289F7](E)</b>levation of Privilege</td>
+    <td><b>@color[#E58537](E)</b>levation of Privilege</td>
     <td>
         @snap[fragment]
         @ul[](false)

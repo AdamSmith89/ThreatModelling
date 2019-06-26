@@ -8,25 +8,33 @@ Threat Modelling
 Note:
 - Great quote from OWASP
 
----?color=linear-gradient(90deg, gold 10%, white 10%)
-
+---
 @snap[north span-100]
 ### Why Threat Model
 @snapend
 
-@snap[west]
-@ul
-- Find security bugs early
-- Helps drive-out Security Requirements
-- Build better products
-- Makes us think about Security!
-@ulend
+@snap[north-west fragment]
+<br>
+Fail Fast
+@snapend
+
+@snap[north-east fragment]
+<br><br>
+Define security requirements
+@snapend
+
+@snap[west fragment]
+<br>
+Build better products
+@snapend
+
+@snap[south-east fragment]
+Makes us think Security!
 @snapend
 
 Note:
-- You may be thinking, why do I want to add more overhead to our process!
+- Any suggestions?
 - SecREq: Is this necessary? Do we need to design for securing X?
-- Driving out requirements and spotting bugs before we've written any code reduces re-work at later, more expensive, stages of dev.
 
 ---
 @title[Agenda]

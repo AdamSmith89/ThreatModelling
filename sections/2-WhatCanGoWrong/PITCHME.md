@@ -40,32 +40,32 @@ Note:
     <th>Principle Violated</th>
   </tr>
   <tr class="fragment">
-    <td><b>@color[#5289F7](S)</b>poofing</td>
+    <td><b>@color[#E58537](S)</b>poofing</td>
     <td>Pretending to be something or someone you are not</td>
     <td>Authenticity</td>
   </tr>
   <tr class="fragment">
-    <td><b>@color[#5289F7](T)</b>ampering</td>
+    <td><b>@color[#E58537](T)</b>ampering</td>
     <td>Modifying something you aren't supposed to modify</td>
     <td>Integrity</td>
   </tr>
     <tr class="fragment">
-    <td><b>@color[#5289F7](R)</b>epudiation</td>
+    <td><b>@color[#E58537](R)</b>epudiation</td>
     <td>Claiming you didn't do something</td>
     <td>Non-Repudiation</td>
   </tr>
     <tr class="fragment">
-    <td><b>@color[#5289F7](I)</b>nformation Disclosure</td>
+    <td><b>@color[#E58537](I)</b>nformation Disclosure</td>
     <td>Exposing information to people who aren't supposed to see it</td>
     <td>Confidentiality</td>
   </tr>
     <tr class="fragment">
-    <td><b>@color[#5289F7](D)</b>enial of Service</td>
+    <td><b>@color[#E58537](D)</b>enial of Service</td>
     <td>Preventing a system from providing service</td>
     <td>Availability</td>
   </tr>
     <tr class="fragment">
-    <td><b>@color[#5289F7](E)</b>levation of Privilege</td>
+    <td><b>@color[#E58537](E)</b>levation of Privilege</td>
     <td>When a program or user is technically able to do things they are not supposed to</td>
     <td>Authorization</td>
   </tr>
