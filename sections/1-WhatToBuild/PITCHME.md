@@ -1,5 +1,5 @@
 ---?image=assets/img/architect.jpg&size=cover
-@snap[text-white]
+@snap[text-orange text-12]
 1. What Are We Building?
 @snapend
 
