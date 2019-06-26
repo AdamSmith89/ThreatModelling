@@ -12,10 +12,14 @@ Note:
 ### Why Threat Model
 @snapend
 
+@snap[west]
+@ul
 - Find security bugs early
 - Helps drive-out Security Requirements
 - Build better products
 - Makes us think about Security!
+@ulend
+@snapend
 
 Note:
 - You may be thinking, why do I want to add more overhead to our process!
@@ -29,8 +33,8 @@ Note:
 ### 4 Key Questions
 @snapend
 
-@snap[west span-100]
-@ol[spaced]
+@snap[west]
+@ol
 - What are we building?
 - What can go wrong?
 - What can we do about it?
@@ -48,16 +52,33 @@ Note:
 ### When To Threat Model
 @snapend
 
-@snap[midpoint]
-@ul
-- Part of design for new code (features/bugs)   
-- It should be updated as design changes (we are bad at this)
-- Review at the end to ensure it still matches (we are bad at this)
-- Ideally legacy system should be TM'd (not sure on best approach here! per-team decision? Architect role, tech debt backlog, whole team smash it in a day or two?)
-@ulend
+@snap[west fragment]
+@fa[play fa-4x]
+@snapend
+
+@snap[midpoint fragment]
+@fa[sync-alt fa-4x]
+@snapend
+
+@snap[east fragment]
+@fa[flag-checkered fa-4x]
+@snapend
+
+@snap[north fragment]
+@fa[cloud-meatball fa-4x]
+@snapend
+
+@snap[south text-08 span-120 fragment]
+@quote[Threat Modelling empowers Testing;<br>Testing empowers Threat Modelling](Adam Shostack)
 @snapend
 
 Note:
+- Part of design for new code (features/bugs)
+- It should be updated as design changes (we are bad at this)
+- Review at the end to ensure it still matches (we are bad at this)
+- Ideally legacy system should be TM'd
+  - Don't do it? Per-team decision? Architect role? TD backlog? Team smash it in a day or two?
+- Look at it like TDD, write test-cases first (find threats first to create tests)
 - Said before, fail fast!
 
 ---
@@ -66,13 +87,11 @@ Note:
 ### Key Takeaways
 @snapend
 
-@snap[midpoint]
 @ul
 - 4 Key Questions
 - STRIDE
 - Threat Model should be a living diagram through feature development
 @ulend
-@snapend
 
 Note:
 - Remember at least this!
@@ -80,9 +99,8 @@ Note:
 - Can anyone remember STRIDE?
 
 ---
-
 @snap[midpoint]
-Any questions?
+@fa[question fa-8x]
 @snapend
 
 ---
