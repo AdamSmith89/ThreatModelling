@@ -1,4 +1,4 @@
-@snap[text-orange text-18]
+@snap[text-gold text-20]
 Threat Modelling
 @snapend
 @snap[fragment]
@@ -8,7 +8,7 @@ Threat Modelling
 Note:
 - Great quote from OWASP
 
----?color=linear-gradient(90deg, orange 20%, white 20%)
+---?color=linear-gradient(90deg, gold 10%, white 10%)
 
 @snap[north span-100]
 ### Why Threat Model
