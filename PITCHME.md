@@ -13,9 +13,9 @@ Note:
 ### Why Threat Model
 @snapend
 
-@snap[north-west fragment]
+@snap[north-west text-center fragment]
 <br><br>
-    Fail Fast
+Fail Fast
 @snapend
 
 @snap[east fragment]
@@ -24,11 +24,11 @@ Define security requirements
 @snapend
 
 @snap[west fragment]
-<br>
+<br><br>
 Build better products
 @snapend
 
-@snap[south-east fragment]
+@snap[south-east text-center fragment]
 Makes us think Security!
 <br>    
 @snapend
