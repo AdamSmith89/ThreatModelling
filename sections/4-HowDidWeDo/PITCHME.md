@@ -7,10 +7,7 @@
 Photo by [Artem Beliaikin @belart84](https://unsplash.com/@belart84?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/thumbs-up?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 @snapend
 
-Photo by Artem Beliaikin @belart84 on Unsplash
-
 ---
-
 @snap[north-west]   
 #### How Did We Do?
 @snapend
