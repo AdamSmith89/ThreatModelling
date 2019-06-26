@@ -48,16 +48,28 @@ Note:
 ### When To Threat Model
 @snapend
 
-@snap[midpoint]
-@ul
-- Part of design for new code (features/bugs)   
-- It should be updated as design changes (we are bad at this)
-- Review at the end to ensure it still matches (we are bad at this)
-- Ideally legacy system should be TM'd (not sure on best approach here! per-team decision? Architect role, tech debt backlog, whole team smash it in a day or two?)
-@ulend
+@snap[west fragment]
+@fa[play]
+@note(Part of design for new code (features/bugs))
+@snapend
+
+@snap[midpoint fragment]
+@fa[sync-alt]
+@note(It should be updated as design changes (we are bad at this))
+@snapend
+
+@snap[east fragment]
+@fa[flag-checkered]
+@note(Review at the end to ensure it still matches (we are bad at this))
+@snapend
+
+@snap[south fragment]
+@fa[cloud-meatball]
+@note(Ideally legacy system should be TM'd (not sure on best approach here! per-team decision? Architect role, tech debt backlog, whole team smash it in a day or two?))
 @snapend
 
 Note:
+- Look at it like TDD, write test-cases first (find threats first to create tests)
 - Said before, fail fast!
 
 ---
