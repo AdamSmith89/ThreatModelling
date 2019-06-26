@@ -1,7 +1,18 @@
 ---?image=assets/img/thinking2.jpg&size=cover
 @snap[text-orange text-16]
 3. What Can We Do?
+<br>
 @snapend
+
+@snap[south-east text-02 text-orange]
+Photo by [Ishan Gupta](https://unsplash.com/@ishang?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/thought?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+@snapend
+
+Note:
+- Start thinking about anti-tamper
+- Using privacy-enhanced protocols
+- Adding extra authentication
+- etc. etc. likely project specific
 
 ---
 @snap[north-west]
@@ -127,7 +138,7 @@ Note:
 - I'd suggest the TM tool for that
 
 ---
-@snap[north-west]   
+@snap[north-west]
 #### What Can We Do?
 ##### Organisation and Prioritisation
 @snapend

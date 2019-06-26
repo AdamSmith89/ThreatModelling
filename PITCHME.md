@@ -1,7 +1,7 @@
 @snap[text-gold text-20]
 Threat Modelling
 @snapend
-@snap[text-black text-italic text-16]
+@snap[text-black text-italic text-08]
 ### *Sooner The Better, But Better Late Than Never*
 @snapend
 
@@ -15,12 +15,12 @@ Note:
 
 @snap[north-west fragment]
 <br><br>
-Fail Fast
+    Fail Fast
 @snapend
 
 @snap[east fragment]
 Define security requirements
-<br><br>
+<br><br><br>
 @snapend
 
 @snap[west fragment]
@@ -48,8 +48,8 @@ Note:
 @ol
 - What are we building?
 - What can go wrong?
-- What can we do about it?
-- Did we do a good job?
+- What can we do?
+- How did we do?
 @olend
 @snapend
 

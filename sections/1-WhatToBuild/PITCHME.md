@@ -11,6 +11,7 @@ Note:
 - Suggest using a DFD. Familiar to most people. Problems/threats tend to follow the data flow. Allows you to focus attention on the important parts of the system.
 - If data can go either one place or another, add both!
 - Can split into multiple diagrams
+- Going to show a dummy system, don't get hung up on the details!
 
 ---
 @snap[north-west span-100]
@@ -22,9 +23,9 @@ Note:
 @snapend
 
 Note:
-- Not much different from a normal DFD
-- Difficult to find all the threats
-- Can we find any? Write them on a board!
+- Acme database infrastructure.
+- Not much different from a normal DFD - you'd likely include what data is flowing
+- Can we find any threats?
 - Next we are going to add trust boundaries
 
 ---
