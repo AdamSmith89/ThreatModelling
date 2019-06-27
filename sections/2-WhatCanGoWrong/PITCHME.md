@@ -1,6 +1,6 @@
 ---?image=assets/img/iceberg2.jpg&size=cover
-@snap[east text-orange text-16]
-&nbsp;&nbsp;&nbsp;&nbsp;2. What Can Go Wrong?
+@snap[east text-orange text-16 right-200]
+2. What Can Go Wrong?
 @snapend
 
 @snap[south-east text-02 text-orange]
