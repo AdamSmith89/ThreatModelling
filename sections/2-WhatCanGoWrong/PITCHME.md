@@ -123,7 +123,7 @@ Note:
 @snap[text-06]
 <table>
   <col width="300">
-  <col width="300">
+  <col width="400">
   <tr>
     <th>Interaction</th>
     <th>Threat</th>

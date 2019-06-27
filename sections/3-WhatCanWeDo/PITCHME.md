@@ -133,7 +133,7 @@ Cover all 1st order threats before moving on.
 @snap[text-06]
 <table>
   <col width="300">
-  <col width="300">
+  <col width="400">
   <col width="300">
   <tr>
     <th>Interaction</th>
