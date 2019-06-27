@@ -146,7 +146,7 @@ Cover all 1st order threats before moving on.
     <td>
       @snap[fragment]
       @ul[](false)
-      -Enhance logging to include session information
+      Enhance logging to include session information
       @ulend
       @snapend
     </td>
