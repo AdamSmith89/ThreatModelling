@@ -9,7 +9,7 @@
 .span-120 { width: 120% !important }
 .span-200 { width: 200% !important }
 
-.right-200 { right: "-200px" }
+.right-200 { right: -200px }
 
 tr:nth-child(even) {
   background-color: #dbdbdb;
