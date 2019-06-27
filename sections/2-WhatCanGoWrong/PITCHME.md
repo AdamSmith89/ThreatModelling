@@ -129,28 +129,33 @@ Note:
     <th>Threat</th>
   </tr>
   <tr class="fragment">
-    <td>Some interaction</td>
-    <td>Threat posed</td>
+    <td>Database to Logs</td>
+    <td>Users aren't tracked as database doesn't log session information</td>
   </tr>
   <tr class="fragment">
-    <td>Some interaction</td>
-    <td>Threat posed</td>
+    <td>Front End(s) to Database</td>
+    <td>SQL injection may cause a data leak</td>
   </tr>
   <tr class="fragment">
-    <td>Some interaction</td>
-    <td>Threat posed</td>
+    <td>DB Admin to Database</td>
+    <td>Many complex requests may impact performance</td>
   </tr>
   <tr class="fragment">
-    <td>Some interaction</td>
-    <td>Threat posed</td>
+    <td>DB Users to Log Analysis</td>
+    <td>Non-admin users can access logs</td>
   </tr>
   <tr class="fragment">
-    <td>Some interaction</td>
-    <td>Threat posed</td>
+    <td>Web Clients to Front End(s)</td>
+    <td>Existing authentication is weak</td>
   </tr>
   <tr class="fragment">
-    <td>Some interaction</td>
-    <td>Threat posed</td>
+    <td>Front End(s) to Database</td>
+    <td>Two routines allow any caller to run arbitrary code by design</td>
   </tr>
 </table>
 @snapend
+
+Note:
+Guess the STRIDE category
+1. Repudiation: Don't know who was logged in!
+2. Information disclosure
