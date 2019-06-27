@@ -154,27 +154,58 @@ Cover all 1st order threats before moving on.
   <tr>
     <td>Front End(s) to Database</td>
     <td>SQL injection may cause a data leak</td>
-    <td>@snap[fragment]Add input validation@snapend</td>
+    <td>
+      @snap[fragment]
+      @ul[](false)
+      Add input validation
+      @ulend
+      @snapend
+    </td>
   </tr>
   <tr>
     <td>DB Admin to Database</td>
     <td>Many complex requests may impact performance</td>
-    <td>@snap[fragment]Throttle # of requests.<br>Investigate performance of complex queries.@snapend</td>
+    <td>
+      @snap[fragment]
+      @ul[](false)
+      Throttle # of requests
+      Investigate performance of complex queries
+      @ulend
+      @snapend
+    </td>
   </tr>
   <tr>
     <td>DB Users to Log Analysis</td>
     <td>Non-admin users can access logs</td>
-    <td>@snap[fragment]Logs are already read-only@snapend</td>
+    <td>
+      @snap[fragment]
+      @ul[](false)
+      Logs are already read-only
+      @ulend
+      @snapend
+    </td>
   </tr>
   <tr>
     <td>Web Clients to Front End(s)</td>
     <td>Existing authentication is weak</td>
-    <td>@snap[fragment]Introduce two-factor authentication@snapend</td>
+    <td>
+      @snap[fragment]
+      @ul[](false)
+      Introduce two-factor authentication
+      @ulend
+      @snapend
+    </td>
   </tr>
   <tr>
     <td>Front End(s) to Database</td>
     <td>Two routines allow any caller to run arbitrary code by design</td>
-    <td>@snap[fragment]Add ACLs to these calls@snapend</td>
+    <td>
+      @snap[fragment]
+      @ul[](false)
+      Add ACLs to these calls
+      @ulend
+      @snapend
+    </td>
   </tr>
 </table>
 @snapend
