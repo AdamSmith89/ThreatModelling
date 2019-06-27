@@ -143,7 +143,11 @@ Cover all 1st order threats before moving on.
   <tr>
     <td>Database to Logs</td>
     <td>Users aren't tracked as database doesn't log session information</td>
-    <td>@span[fragment]Enhance logging to include session information@spanend</td>
+    <td>
+      @span[fragment]
+      Enhance logging to include session information
+      @spanend
+    </td>
   </tr>
   <tr>
     <td>Front End(s) to Database</td>
