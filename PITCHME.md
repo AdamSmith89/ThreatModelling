@@ -93,7 +93,7 @@ Note:
 @ul
 - 4 Key Questions
 - STRIDE
-- Keep it updated
+- Keep it up-to-date
 @ulend
 
 Note:
