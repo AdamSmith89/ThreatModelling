@@ -44,7 +44,7 @@ Note:
 ### 4 Key Questions
 @snapend
 
-@snap[midpoint text-left]
+@snap[midpoint text-left text-14]
 @ol
 - What are we building?
 - What can go wrong?
