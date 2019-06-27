@@ -195,7 +195,7 @@ Note:
 @snapend
 
 @snap[midpoint]
-@fa[sort-amount-up]
+@fa[sort-amount-up fa-8x]
 @snapend
 
 @snap[north-west text-center fragment]
