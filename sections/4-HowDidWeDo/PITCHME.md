@@ -1,5 +1,5 @@
 ---?image=assets/img/thumbup.jpg&size=cover
-@snap[text-orange text-16]
+@snap[west text-orange text-16]
 <br>
 4. How Did We Do?
 @snapend
