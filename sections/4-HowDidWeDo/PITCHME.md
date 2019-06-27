@@ -4,8 +4,8 @@
 4. How Did We Do?
 @snapend
 
-@snap[south-east text-02 text-orange]
-Photo by [Artem Beliaikin @belart84](https://unsplash.com/@belart84?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/thumbs-up?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+@snap[south-east text-02 text-black]
+Photo by [Jude Beck](https://unsplash.com/@judebeck?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/thumbs-up?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 @snapend
 
 ---
