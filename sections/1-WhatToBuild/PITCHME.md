@@ -1,5 +1,5 @@
 ---?image=assets/img/design.jpg&size=cover
-@snap[south text-orange text-16]
+@snap[south text-orange text-16 span-120]
 <br>
 1. What Are We Building?
 @snapend
