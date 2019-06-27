@@ -1,5 +1,5 @@
 ---?image=assets/img/iceberg3.jpg&size=cover
-@snap[east text-orange text-16 right-60]
+@snap[east text-orange text-16 right-70]
 2. What Can Go Wrong?
 @snapend
 
