@@ -1,5 +1,5 @@
 ---?image=assets/img/thumbsup2.jpg&size=cover
-@snap[north text-orange text-16]
+@snap[north text-orange text-16 span-120]
 <br>
 4. How Did We Do?
 @snapend
