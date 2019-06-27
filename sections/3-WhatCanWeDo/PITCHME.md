@@ -143,32 +143,32 @@ Cover all 1st order threats before moving on.
   <tr>
     <td>Database to Logs</td>
     <td>Users aren't tracked as database doesn't log session information</td>
-    <td class="fragment">Enhance logging to include session information</td>
+    <td>@span[fragment]Enhance logging to include session information@spanend</td>
   </tr>
   <tr>
     <td>Front End(s) to Database</td>
     <td>SQL injection may cause a data leak</td>
-    <td class="fragment">Add input validation</td>
+    <td>@span[fragment]Add input validation@spanend</td>
   </tr>
   <tr>
     <td>DB Admin to Database</td>
     <td>Many complex requests may impact performance</td>
-    <td class="fragment">Throttle # of requests.<br>Investigate performance of complex queries.</td>
+    <td>@span[fragment]Throttle # of requests.<br>Investigate performance of complex queries.@spanend</td>
   </tr>
   <tr>
     <td>DB Users to Log Analysis</td>
     <td>Non-admin users can access logs</td>
-    <td class="fragment">Logs are already read-only</td>
+    <td>@span[fragment]Logs are already read-only@spanend</td>
   </tr>
   <tr>
     <td>Web Clients to Front End(s)</td>
     <td>Existing authentication is weak</td>
-    <td class="fragment">Introduce two-factor authentication</td>
+    <td>@span[fragment]Introduce two-factor authentication@spanend</td>
   </tr>
   <tr>
     <td>Front End(s) to Database</td>
     <td>Two routines allow any caller to run arbitrary code by design</td>
-    <td class="fragment">Add ACLs to these calls</td>
+    <td>@span[fragment]Add ACLs to these calls@spanend</td>
   </tr>
 </table>
 @snapend
