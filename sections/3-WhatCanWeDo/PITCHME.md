@@ -143,7 +143,7 @@ Cover all 1st order threats before moving on.
   <tr>
     <td>Database to Logs</td>
     <td>Users aren't tracked as database doesn't log session information</td>
-    <td>@snap[fragment]Enhance logging to include session information@snapend</td>
+    <td>@snap[fragment]@ul[](false)-Enhance logging to include session information@ulend@snapend</td>
   </tr>
   <tr>
     <td>Front End(s) to Database</td>
