@@ -93,13 +93,14 @@ Note:
 @ul
 - 4 Key Questions
 - STRIDE
-- Threat Model should be a living diagram through feature development
+- Keep it updated
 @ulend
 
 Note:
 - Remember at least this!
 - Can anyone remember the questions?
 - Can anyone remember STRIDE?
+- Something we haven't been good at!
 
 ---
 @snap[midpoint]
@@ -107,12 +108,15 @@ Note:
 @snapend
 
 ---
-
 @snap[north span-100]
 ### Useful Resources
 @snapend
 
-- CAPEC
-- CVSS calculator
-- Threat Modelling by Adam Shostack
-- STRIDE on Microsoft website
+- [STRIDE chart](https://www.microsoft.com/security/blog/2007/09/11/stride-chart/) from MS Blog
+- [CAPEC](https://capec.mitre.org/)
+- [CVSS Calculator](https://www.first.org/cvss/calculator/3.0)
+- Threat Modeling by Adam Shostack
+
+Note:
+- Common Attack Pattern Enumeration and Classification
+  - Comprehensive dictionary of known attack patterns
