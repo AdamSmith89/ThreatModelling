@@ -143,38 +143,32 @@ Cover all 1st order threats before moving on.
   <tr>
     <td>Database to Logs</td>
     <td>Users aren't tracked as database doesn't log session information</td>
-    <td>
-      @span[fragment]
-      @ul[](false)
-      - Enhance logging to include session information
-      @ulend
-      @spanend
-    </td>
+    <td>@snap[fragment]Enhance logging to include session information@snapend</td>
   </tr>
   <tr>
     <td>Front End(s) to Database</td>
     <td>SQL injection may cause a data leak</td>
-    <td>@span[fragment]Add input validation@spanend</td>
+    <td>@snap[fragment]Add input validation@snapend</td>
   </tr>
   <tr>
     <td>DB Admin to Database</td>
     <td>Many complex requests may impact performance</td>
-    <td>@span[fragment]Throttle # of requests.<br>Investigate performance of complex queries.@spanend</td>
+    <td>@snap[fragment]Throttle # of requests.<br>Investigate performance of complex queries.@snapend</td>
   </tr>
   <tr>
     <td>DB Users to Log Analysis</td>
     <td>Non-admin users can access logs</td>
-    <td>@span[fragment]Logs are already read-only@spanend</td>
+    <td>@snap[fragment]Logs are already read-only@snapend</td>
   </tr>
   <tr>
     <td>Web Clients to Front End(s)</td>
     <td>Existing authentication is weak</td>
-    <td>@span[fragment]Introduce two-factor authentication@spanend</td>
+    <td>@snap[fragment]Introduce two-factor authentication@snapend</td>
   </tr>
   <tr>
     <td>Front End(s) to Database</td>
     <td>Two routines allow any caller to run arbitrary code by design</td>
-    <td>@span[fragment]Add ACLs to these calls@spanend</td>
+    <td>@snap[fragment]Add ACLs to these calls@snapend</td>
   </tr>
 </table>
 @snapend
