@@ -92,6 +92,7 @@ Note:
 
 @ul
 - 4 Key Questions
+- Trust Boundaries
 - STRIDE
 - Keep it up-to-date
 @ulend
