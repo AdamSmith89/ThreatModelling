@@ -1,4 +1,4 @@
----?image=assets/img/shark.jpg&size=cover
+---?image=assets/img/iceberg.jpg&size=cover
 @snap[text-orange text-16]
 2. What Can Go Wrong?
 @snapend
