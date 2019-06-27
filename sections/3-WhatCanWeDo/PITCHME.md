@@ -145,7 +145,9 @@ Cover all 1st order threats before moving on.
     <td>Users aren't tracked as database doesn't log session information</td>
     <td>
       @span[fragment]
-      Enhance logging to include session information
+      @ul[](false)
+      - Enhance logging to include session information
+      @ulend
       @spanend
     </td>
   </tr>
