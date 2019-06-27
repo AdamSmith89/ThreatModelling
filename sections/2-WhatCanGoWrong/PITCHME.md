@@ -12,17 +12,7 @@ Note:
 - Framework to help you focus on the type of threats you might face
 - STRIDE threats are purposefully the opposite of properties we would like in our system
 - Easy to remember and apply for good results
-- there are other ways
-  - Attack Trees (show example?)
-  - Attack Libraries (show example?)
-
-  - Trees : Start with goal (repudiate data etc.) and then leaf nodes are how that is achieved
-    - Can be harder to get started.
-    - Doesn't lend itself well to our process.
-    
-- Libraries : A collection of commo attacks against a system.
-    - High-level can be too abstract
-    - Low-level can be too specific (or need to create your own)
+- there are other ways; focus on STRIDE today
 
 ---
 @snap[north-west]
@@ -114,6 +104,8 @@ Note:
 - Can we think of any more threat?
 - STRIDE per interaction
 - STRIDE per threat
+- Don't worry about exactly which category a threat should be in.
+  - Just a tool to help think of threats!
 
 ---
 @snap[north-west]
