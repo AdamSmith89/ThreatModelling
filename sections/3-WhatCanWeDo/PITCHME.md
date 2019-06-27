@@ -167,10 +167,9 @@ Cover all 1st order threats before moving on.
     <td>Many complex requests may impact performance</td>
     <td>
       @snap[fragment]
-      @ul[](false)
       Throttle # of requests
+      <br>
       Investigate performance of complex queries
-      @ulend
       @snapend
     </td>
   </tr>
