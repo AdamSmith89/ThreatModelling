@@ -194,7 +194,7 @@ Note:
 #### What Can We Do?
 @snapend
 
-@snap
+@snap[midpoint]
 @fa[sort-amount-up]
 @snapend
 
