@@ -115,29 +115,28 @@ Note:
     <td>Modifying something you aren't supposed to modify</td>
     <td>Integrity</td>
   </tr>
-    <tr class="fragment">
+  <tr class="fragment">
     <td><b>@color[#E58537](R)</b>epudiation</td>
     <td>Claiming you didn't do something</td>
     <td>Non-Repudiation</td>
   </tr>
-    <tr class="fragment">
+  <tr class="fragment">
     <td><b>@color[#E58537](I)</b>nformation Disclosure</td>
     <td>Exposing information to people who aren't supposed to see it</td>
     <td>Confidentiality</td>
   </tr>
-    <tr class="fragment">
+  <tr class="fragment">
     <td><b>@color[#E58537](D)</b>enial of Service</td>
     <td>Preventing a system from providing service</td>
     <td>Availability</td>
   </tr>
-    <tr class="fragment">
+  <tr class="fragment">
     <td><b>@color[#E58537](E)</b>levation of Privilege</td>
     <td>When a program or user is technically able to do things they are not supposed to</td>
     <td>Authorization</td>
   </tr>
 </table>
 @snapend
-
 
 Note:
 - Don't have time to go into specifics, but here are some high-level common mitigations.
