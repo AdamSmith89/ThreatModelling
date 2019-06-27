@@ -145,9 +145,7 @@ Cover all 1st order threats before moving on.
     <td>Users aren't tracked as database doesn't log session information</td>
     <td>
       @snap[fragment]
-      @ul[](false)
       Enhance logging to include session information
-      @ulend
       @snapend
     </td>
   </tr>
@@ -156,9 +154,7 @@ Cover all 1st order threats before moving on.
     <td>SQL injection may cause a data leak</td>
     <td>
       @snap[fragment]
-      @ul[](false)
       Add input validation
-      @ulend
       @snapend
     </td>
   </tr>
@@ -178,9 +174,7 @@ Cover all 1st order threats before moving on.
     <td>Non-admin users can access logs</td>
     <td>
       @snap[fragment]
-      @ul[](false)
       Logs are already read-only
-      @ulend
       @snapend
     </td>
   </tr>
@@ -189,9 +183,7 @@ Cover all 1st order threats before moving on.
     <td>Existing authentication is weak</td>
     <td>
       @snap[fragment]
-      @ul[](false)
       Introduce two-factor authentication
-      @ulend
       @snapend
     </td>
   </tr>
@@ -200,9 +192,7 @@ Cover all 1st order threats before moving on.
     <td>Two routines allow any caller to run arbitrary code by design</td>
     <td>
       @snap[fragment]
-      @ul[](false)
       Add ACLs to these calls
-      @ulend
       @snapend
     </td>
   </tr>
