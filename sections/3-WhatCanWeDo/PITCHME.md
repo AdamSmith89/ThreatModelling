@@ -130,7 +130,7 @@ Cover all 1st order threats before moving on.
 #### What Can We Do?
 @snapend
 
-@snap[text-06]
+@snap[text-04]
 <table>
   <col width="300">
   <col width="400">
