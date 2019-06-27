@@ -1,4 +1,4 @@
----?image=assets/img/thinking2.jpg&size=110%
+---?image=assets/img/thinking2.jpg&size=80%
 @snap[text-orange text-16]
 3. What Can We Do?
 <br><br><br>
