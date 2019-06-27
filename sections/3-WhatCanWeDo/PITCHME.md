@@ -194,12 +194,29 @@ Note:
 #### What Can We Do?
 @snapend
 
-@ul
-- Wait and See
-- Easy fixes first
-- Fix them all
-- Bug bar
-@ulend
+@snap
+@fa[sort-amount-up]
+@snapend
+
+@snap[north-west text-center fragment]
+<br><br>
+Wait and See
+@snapend
+
+@snap[east fragment]
+Easy fixes first
+<br><br><br>
+@snapend
+
+@snap[west fragment]
+<br><br>
+Fix them all
+@snapend
+
+@snap[south-east text-center fragment]
+Bug bar
+<br>    
+@snapend
 
 Note:
 - Got all your threat/mitigations. What do you do with them?!

@@ -119,3 +119,4 @@ Note:
 - CAPEC
 - CVSS calculator
 - Threat Modelling by Adam Shostack
+- STRIDE on Microsoft website
