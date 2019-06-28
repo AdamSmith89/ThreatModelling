@@ -107,6 +107,11 @@ Note:
 #### What Can We Do?
 @snapend
 
+@snap[north fragment text-06 span-40]
+@fa[lock fa-8x]
+<br>Add a lock
+@snapend
+
 @snap[west fragment text-06 span-40]
 @fa[windows fa-8x]
 <br>Reinforce the window!
