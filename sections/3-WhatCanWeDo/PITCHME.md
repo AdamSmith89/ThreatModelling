@@ -1,4 +1,4 @@
----?image=assets/img/thinking2.jpg&size=140%
+---?image=assets/img/thinking2.jpg&size=200%
 @snap[text-orange text-16]
 3. What Can We Do?
 <br><br><br>
@@ -21,7 +21,7 @@ Note:
 
 @snap[text-06]
 <table>
-  <col width="250">
+  <col width="300">
   <col width="500">
   <tr>
     <th/>
@@ -130,7 +130,7 @@ Cover all 1st order threats before moving on.
 #### What Can We Do?
 @snapend
 
-@snap[text-04]
+@snap[text-05]
 <table>
   <col width="300">
   <col width="400">

@@ -21,7 +21,7 @@ Note:
 
 @snap[text-06]
 <table>
-  <col width="250">
+  <col width="300">
   <col width="500">
   <col width="150">
   <tr>
@@ -78,6 +78,7 @@ Note:
   - Process
   - Use someone else's account
   - Attack logs
+  - Assurance that someone cannot deny something
 - Information Disclosure
   - Processes, data stores, data flows
   - Usually the target of another attack
@@ -106,6 +107,8 @@ Note:
 - STRIDE per threat
 - Don't worry about exactly which category a threat should be in.
   - Just a tool to help think of threats!
+- Threats should be 5 * number of components in the system
+- Don't think about mitigations
 
 ---
 @snap[north-west]
@@ -114,8 +117,8 @@ Note:
 
 @snap[text-06]
 <table>
-  <col width="300">
-  <col width="400">
+  <col width="350">
+  <col width="450">
   <tr>
     <th>Interaction</th>
     <th>Threat</th>
@@ -151,3 +154,7 @@ Note:
 Guess the STRIDE category
 1. Repudiation: Don't know who was logged in!
 2. Information disclosure
+3. Denial of Service
+4. Information disclosure / tampering
+5. Spoofing
+6. Elevation of Privilege
