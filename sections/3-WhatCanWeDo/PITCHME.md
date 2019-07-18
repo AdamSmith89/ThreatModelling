@@ -107,26 +107,6 @@ Note:
 #### What Can We Do?
 @snapend
 
-<!-- @snap[north fragment text-06 span-40]
-@fa[lock fa-8x]
-<br>Add a lock
-@snapend
-
-@snap[west fragment text-06 span-40]
-@fa[windows fa-8x]
-<br>Reinforce the window!
-@snapend
-
-@snap[east fragment text-06 span-40]
-@fa[bell fa-8x]
-<br>Add an alarm system!
-@snapend
-
-@snap[south fragment text-06 span-40]
-@fa[door-open fa-8x]
-<br>Forgot about the key...
-@snapend -->
-
 ![CommitStrip](https://pbs.twimg.com/media/D_xKuVSWwAAGJti.jpg:large)
 
 Note:
