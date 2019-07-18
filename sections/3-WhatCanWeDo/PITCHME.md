@@ -107,7 +107,7 @@ Note:
 #### What Can We Do?
 @snapend
 
-@snap[north fragment text-06 span-40]
+<!-- @snap[north fragment text-06 span-40]
 @fa[lock fa-8x]
 <br>Add a lock
 @snapend
@@ -125,7 +125,9 @@ Note:
 @snap[south fragment text-06 span-40]
 @fa[door-open fa-8x]
 <br>Forgot about the key...
-@snapend
+@snapend -->
+
+![CommitStrip](https://pbs.twimg.com/media/D_xKuVSWwAAGJti.jpg:large)
 
 Note:
 Last thing to mention is 2nd/3rd order mitigations.
