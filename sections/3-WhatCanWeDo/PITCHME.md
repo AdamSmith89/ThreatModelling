@@ -107,6 +107,7 @@ Note:
 #### What Can We Do?
 @snapend
 
+<br>
 ![CommitStrip](https://pbs.twimg.com/media/D_xKuVSWwAAGJti.jpg:large)
 
 Note:
